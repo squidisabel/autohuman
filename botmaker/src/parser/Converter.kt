@@ -26,14 +26,14 @@ object Converter {
                     robotString = ""
                     prevName = humanName
                 } else {
-                    robotString = "$robotString ${it.second}"//TODO work on spacing
+                    robotString = "$robotString \n ${it.second}"//TODO work on spacing
                 }
             } else {
                 if (it.first == robotName) {
                     robotString = it.second
                     prevName = robotName
                 } else {
-                    humanString = "$humanString ${it.second}"
+                    humanString = "$humanString \n ${it.second}"
                 }
             }
         }

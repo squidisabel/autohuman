@@ -3,13 +3,13 @@
   "response" : "35"
 }, {
   "input" : "Be there in a sec!",
-  "response" : "You sent an attachment. are you sure 6 on intro touni maths is false im fairly sure it isnt"
+  "response" : "You sent an attachment. \n are you sure 6 on intro touni maths is false \n im fairly sure it isnt"
 }, {
   "input" : "It's false, the order of the quantifiers matters",
-  "response" : "yes true but 5 implies 6"
+  "response" : "yes true \n but 5 implies 6"
 }, {
   "input" : "One does imply the other, I don't remember in what order",
-  "response" : "ye 5 =>6 so with the foldbool you dont even need a function right just what it returns"
+  "response" : "ye 5 =>6 \n so with the foldbool you dont even need a function right \n just what it returns"
 }, {
   "input" : "That's right, like it's a function with no arguments",
   "response" : "tis a bit silly"
@@ -18,160 +18,160 @@
   "response" : "you in the library or sth"
 }, {
   "input" : "Just about done with jazz, I might head there in a minute if you're there",
-  "response" : "im not rn buy may but may"
+  "response" : "im not rn \n buy may \n but may"
 }, {
   "input" : "Will you then",
   "response" : "yeah for half past"
 }, {
-  "input" : "K Tell me when you're there",
+  "input" : "K \n Tell me when you're there",
   "response" : "im there"
 }, {
   "input" : "On my way",
-  "response" : "hey are you at the bop if not can you answer a question regarding the fp"
+  "response" : "hey are you at the bop \n if not can you answer a question regarding the fp"
 }, {
   "input" : "Lemme try my best at doing both",
-  "response" : "oooh damn I missed this message oh well ill ask in the morning Yo can you show me how to ssh at some point"
+  "response" : "oooh \n damn I missed this message \n oh well ill ask in the morning \n Yo can you show me how to ssh at some point"
 }, {
   "input" : "Have you managed to SSH?",
-  "response" : "Nope is undefined a zero on strict functions"
+  "response" : "Nope \n is undefined a zero on strict functions"
 }, {
   "input" : "Huuum... it would make sense?",
   "response" : "I mean it returns itself when used"
 }, {
   "input" : "By that definition, yes that makes a lot of sense",
-  "response" : "Lovely How are the alpes"
+  "response" : "Lovely \n How are the alpes"
 }, {
   "input" : "Great! It's going to be a lot of fun. Although it feels weird because it should be France but there are so many brits that it still feels like it's the U.K.",
   "response" : "The Alps are barely France"
 }, {
   "input" : "Fair ð",
-  "response" : "Ya with lmh doods Or"
+  "response" : "Ya with lmh doods \n Or"
 }, {
   "input" : "Then, who would the alps most belong to?",
   "response" : "Les riches"
 }, {
   "input" : "Ya, mostly",
-  "response" : "Kool Merry Christmas Or Joyeux NoÃ«l"
+  "response" : "Kool \n Merry Christmas \n Or Joyeux NoÃ«l"
 }, {
   "input" : "Noyeux JoÃ«l to you too!",
-  "response" : "Any fun presents Apart from a chateux"
+  "response" : "Any fun presents \n Apart from a chateux"
 }, {
-  "input" : "I got given a book on cooking and some chocolat for cake making. I think my family is trying to tell me to quit CS Hbu?",
-  "response" : "A camera A cook book And a book book And my family wants me to get a job"
+  "input" : "I got given a book on cooking and some chocolat for cake making. I think my family is trying to tell me to quit CS \n Hbu?",
+  "response" : "A camera \n A cook book \n And a book book \n And my family wants me to get a job"
 }, {
-  "input" : "During the vac's or after you degree? What kind of camera?",
-  "response" : "Dc3500 Vac I think Nikon that is It's so cool it has a remote shoot functionality"
+  "input" : "During the vac's or after you degree? \n What kind of camera?",
+  "response" : "Dc3500 \n Vac I think \n Nikon that is \n It's so cool it has a remote shoot functionality"
 }, {
-  "input" : "Oh nice! DSLR's are really impressive Did you get a book about photography to go with it?",
-  "response" : "No Dw I'll figure it out"
+  "input" : "Oh nice! DSLR's are really impressive \n Did you get a book about photography to go with it?",
+  "response" : "No \n Dw I'll figure it out"
 }, {
   "input" : "So many butttoonnsss!",
-  "response" : "Like 20 So many settings Salut On the first of Feb a load of us are going to Ronnie Scott's in london Join in! Tickets are kinda pricey It's to see bokante First showing And its also a celebration of mine and ines' birthdays on the same day"
+  "response" : "Like 20 \n So many settings \n Salut \n On the first of Feb a load of us are going to Ronnie Scott's in london \n Join in! \n Tickets are kinda pricey \n It's to see bokante \n First showing \n And its also a celebration of mine and ines' birthdays on the same day"
 }, {
   "input" : "Sounds awesome!",
   "response" : "Make sure to book"
 }, {
   "input" : "So is it a round trip in one evening?",
-  "response" : "We haven't decided We may be able to stay in my house in london Or in ines' But it may be too many people We shall see How's your work going"
+  "response" : "We haven't decided \n We may be able to stay in my house in london \n Or in ines' \n But it may be too many people \n We shall see \n How's your work going"
 }, {
   "input" : "Ummm",
-  "response" : "And when you going back to oxford Umm for me too"
+  "response" : "And when you going back to oxford \n Umm for me too"
 }, {
   "input" : "Sunday",
-  "response" : "So the sixth or seventh I can't remember whuch Okay cool It's wills birthday on the sixth We should try plan sth"
+  "response" : "So the sixth or seventh I can't remember whuch \n Okay cool \n It's wills birthday on the sixth \n We should try plan sth"
 }, {
-  "input" : "Indeed Any ideas?",
-  "response" : "Well cake is obviously important We could try baking one"
+  "input" : "Indeed \n Any ideas?",
+  "response" : "Well cake is obviously important \n We could try baking one"
 }, {
   "input" : "Brilliant, I could put my cook book to use",
-  "response" : "So we make a feast I'm liking this so far Clubbing after or STH more kosher?"
+  "response" : "So we make a feast \n I'm liking this so far \n Clubbing after or STH more kosher?"
 }, {
   "input" : "Why does kosher mean? ð",
-  "response" : "STH more uhhh Pedestrian Like yk Proper?"
+  "response" : "STH more uhhh \n Pedestrian \n Like yk \n Proper?"
 }, {
   "input" : "I see",
-  "response" : "Ygm Also"
+  "response" : "Ygm \n Also"
 }, {
-  "input" : "? I'm confused by this art (I assume it's art?)",
-  "response" : "Um It's discrete math Which is kinda an art My phone's camera is weird"
+  "input" : "? \n I'm confused by this art \n (I assume it's art?)",
+  "response" : "Um \n It's discrete math \n Which is kinda an art \n My phone's camera is weird"
 }, {
   "input" : "What is lub?",
   "response" : "It will have everything nice and focused"
 }, {
   "input" : "And what is the connexion between the text and the images",
-  "response" : "But when you take the photo it fucks it up It says lub in the image And lub is least upper bound"
+  "response" : "But when you take the photo it fucks it up \n It says lub in the image \n And lub is least upper bound"
 }, {
-  "input" : "Ohhh Oh yess I get it",
+  "input" : "Ohhh \n Oh yess I get it",
   "response" : "What an odd word eh"
 }, {
-  "input" : "It is kind of a stupid word Yeh",
+  "input" : "It is kind of a stupid word \n Yeh",
   "response" : "Oh well"
 }, {
   "input" : "But what's frustrating is that if you think about it, it kind of makes sense?",
   "response" : "Yeah it does"
 }, {
   "input" : "But then if you keep thinking more it losses its sense and then you have to think more about it",
-  "response" : "Truly magical Just like the artistic photo"
+  "response" : "Truly magical \n Just like the artistic photo"
 }, {
   "input" : "Would you capitalize LUB if it's an acronym?",
-  "response" : "Yeah I think Should there not be dots too Ice hockey today?"
+  "response" : "Yeah I think \n Should there not be dots too \n Ice hockey today?"
 }, {
   "input" : "No, sorry. Where can you do ice hockey though?",
-  "response" : "at the ice rink 1130 to 130 you should defo come"
+  "response" : "at the ice rink \n 1130 to 130 \n you should defo come"
 }, {
   "input" : "Today??",
   "response" : "ya"
 }, {
   "input" : "23:30 - 01:00",
-  "response" : "ay are you in or are you in"
+  "response" : "ay \n are you in or are you in"
 }, {
   "input" : "No, orry",
-  "response" : "ay I can feel the crash coming oh boy Derek Parfit, âWhy Our Identity is Not What Mattersâ, in Parfit, Reasons and Persons (Oxford UP, 1984), Chapter 12, pp. 245-280. is a really interesting read Im making poutine tonight"
+  "response" : "ay \n I can feel the crash coming oh boy \n Derek Parfit, âWhy Our Identity is Not What Mattersâ, in Parfit, Reasons and Persons (Oxford UP, 1984), Chapter 12, pp. 245-280. \n is a really interesting read \n Im making poutine tonight"
 }, {
   "input" : "I'm going to a French soc event tonight",
-  "response" : "how long is that may not be making it anyway hey have you tried running the binarytreebag from lectures it just crashes for me and gets angry about the use of stack"
+  "response" : "how long is that \n may not be making it anyway \n hey \n have you tried running the binarytreebag from lectures \n it just crashes for me \n and gets angry about the use of stack"
 }, {
-  "input" : "I'll give it go Lecture 16 right Mine seams to work fine",
+  "input" : "I'll give it go \n Lecture 16 right \n Mine seams to work fine",
   "response" : "No not hash bag binary tree"
 }, {
   "input" : "These are the files I have in my directory and these are the results I get:",
   "response" : "You in college yet"
 }, {
-  "input" : "Yes! Got back this afternoon Hbu?",
-  "response" : "Yes When you going to dinner"
+  "input" : "Yes! Got back this afternoon \n Hbu?",
+  "response" : "Yes \n When you going to dinner"
 }, {
   "input" : "I'm waiting for peeps in Deneke foyer",
-  "response" : "ill set off then hey have you had a look at the first problem sheet q4. If so do you have any clue how to change the behaviour. It uses static polymorphism to resolve it so it doesnt even consider whatever I put in RayTracingRenderer nvm I managed it, though its kinda disgusting behaviour also question 5 just doesnt compile like at all okay nvm that new problems I dont understand how the fuck doees inheritance of parameterised variables work for the ellipse question when I change the variable for some reason the change just isnt registered if I do it in the loggedellipse even though the rest of the function is running"
+  "response" : "ill set off then \n hey have you had a look at the first problem sheet q4. If so do you have any clue how to change the behaviour. It uses static polymorphism to resolve it so it doesnt even consider whatever I put in RayTracingRenderer \n nvm I managed it, though its kinda disgusting behaviour \n also question 5 just doesnt compile \n like at all \n okay nvm that \n new problems I dont understand \n how the fuck doees inheritance of parameterised variables work \n for the ellipse question when I change the variable for some reason the change just isnt registered if I do it in the loggedellipse \n even though the rest of the function is running"
 }, {
   "input" : "Aha. I haven't looked at it yet, thanks for the shout",
-  "response" : "this problem sheet has convinced me I hate inheritance You looked at it yet?"
+  "response" : "this problem sheet has convinced me I hate inheritance \n You looked at it yet?"
 }, {
   "input" : "Na not yet sorry",
-  "response" : "Oh well you done it yet?"
+  "response" : "Oh well \n you done it yet?"
 }, {
   "input" : "Na sorry ðð",
-  "response" : "lmao when are you"
+  "response" : "lmao \n when are you"
 }, {
   "input" : "When? ð",
-  "response" : "ya when can I ask for your help on it"
+  "response" : "ya \n when can I ask for your help on it"
 }, {
   "input" : "I'll give you a shout when I start it",
   "response" : "<3"
 }, {
   "input" : "I'm going to go to hall before going to the lib so I'll probs be there at around 2",
-  "response" : "Ah I will not see you then God speed hows your ps goin"
+  "response" : "Ah I will not see you then \n God speed \n hows your ps goin"
 }, {
-  "input" : "just started q1 m'havin' trouble with the iterator I could really use your help!",
-  "response" : "Where are you Im in the Bodleian so we will have to do this over messenger What have you got i presume your issue is with implementing hasNext iterators have a duplicate method so I used that"
+  "input" : "just started q1 \n m'havin' trouble with the iterator \n I could really use your help!",
+  "response" : "Where are you \n Im in the Bodleian so we will have to do this over messenger \n What have you got \n i presume your issue is with implementing hasNext \n iterators have a duplicate method \n so I used that"
 }, {
   "input" : "I just had my tute with Varun",
-  "response" : "ah you back in your room if not come downstairs to the socialarea"
+  "response" : "ah \n you back in your room \n if not come downstairs to the socialarea"
 }, {
   "input" : "Deneke Foyer?",
-  "response" : "oh nvm im in cs"
+  "response" : "oh nvm \n im in cs"
 }, {
-  "input" : "Aha U have your tute tomorrow?",
-  "response" : "what did you use my tute is at 5"
+  "input" : "Aha \n U have your tute tomorrow?",
+  "response" : "what did you use \n my tute is at 5"
 }, {
   "input" : "Some fancy flags",
   "response" : "fun"
@@ -180,7 +180,7 @@
   "response" : "not sure what those are but sure"
 }, {
   "input" : "The solution uses Option[T]",
-  "response" : "oh really? how on earth does hasnext do that tho cos it has to go through the iterations"
+  "response" : "oh really? how on earth does hasnext do that tho \n cos it has to go through the iterations"
 }, {
   "input" : "Like keep track of if something has been done or not",
   "response" : "huh"
@@ -189,10 +189,10 @@
   "response" : "so filterhasnext has to check if there are any remaining elements right"
 }, {
   "input" : "Ya",
-  "response" : "so to do that it has to read the elements and check them against the test but the only accessor we have is .next"
+  "response" : "so to do that it has to read the elements and check them against the test \n but the only accessor we have is .next"
 }, {
   "input" : "Thereby changing the state of the iterator",
-  "response" : "which changes the iterator hence why I duplicated it"
+  "response" : "which changes the iterator \n hence why I duplicated it"
 }, {
   "input" : "Exactly",
   "response" : "how does an option not change the state of the operator"
@@ -200,29 +200,29 @@
   "input" : "But what do you I itialize it to?",
   "response" : "how do you mean"
 }, {
-  "input" : "Initialize* Oh sorry You duplicate the entire iterator",
+  "input" : "Initialize* \n Oh sorry \n You duplicate the entire iterator",
   "response" : "ya which runs through the iterator"
 }, {
   "input" : "I 'duplicate' the previous value of 'next'",
-  "response" : "that makes sense what did theirs do also any idea why my q2 wont compile"
+  "response" : "that makes sense \n what did theirs do \n also any idea why my q2 wont compile"
 }, {
-  "input" : "That But the issue of having a variable of type T is that it has to be initialized to something, what if there are no items I. The iterator which satisfy the test? Their solution uses an Option[t]",
+  "input" : "That \n But the issue of having a variable of type T is that it has to be initialized to something, what if there are no items I. The iterator which satisfy the test? \n Their solution uses an Option[t]",
   "response" : "ahhh I see"
 }, {
   "input" : "What's the compiler complaining about?",
-  "response" : "everything gimme a sec"
+  "response" : "everything \n gimme a sec"
 }, {
-  "input" : "ð Right, I need to do some Maths, I'll take a look later",
-  "response" : "lmao not much use later dw I can after all just ask varun my other problem is text not compiling but oh well"
+  "input" : "ð \n Right, I need to do some Maths, I'll take a look later",
+  "response" : "lmao \n not much use later \n dw \n I can after all just ask varun \n my other problem is text not compiling \n but oh well"
 }, {
-  "input" : "D'you have a minute to show me the practical? / the remote login?",
+  "input" : "D'you have a minute to show me the practical? \n / the remote login?",
   "response" : "come quick"
 }, {
-  "input" : "Thanks again for the practical files! I got some of your work in the process - it seems like you don't want to heed the instructions ð (They suggest adding a method in EdBuffer for transposing, but you do it in Editor. Oh well)",
-  "response" : "Lmao yeah ignore my work. Who likes instructions Do tell me if you do the same"
+  "input" : "Thanks again for the practical files! \n I got some of your work in the process - it seems like you don't want to heed the instructions ð \n (They suggest adding a method in EdBuffer for transposing, but you do it in Editor. Oh well)",
+  "response" : "Lmao yeah ignore my work. Who likes instructions \n Do tell me if you do the same"
 }, {
-  "input" : "I'll try following the instructions, maybe even implement it in PlaneText or Text rather than EdBuffer Would you amalgamate successive transpositions?",
-  "response" : "that would be a good implementation maybe you busy for lunch we could do a cheeky bit of cooking"
+  "input" : "I'll try following the instructions, maybe even implement it in PlaneText or Text rather than EdBuffer \n Would you amalgamate successive transpositions?",
+  "response" : "that would be a good implementation \n maybe \n you busy for lunch \n we could do a cheeky bit of cooking"
 }, {
   "input" : "I'm down!",
   "response" : "1ish?"
@@ -237,16 +237,16 @@
   "response" : "Or a noodle and tofu dish"
 }, {
   "input" : "I'm tempted by the latter",
-  "response" : "Aite My kitchen 1 then"
+  "response" : "Aite \n My kitchen 1 then"
 }, {
-  "input" : "calm I've got a fat stack of pink lentils, should I bring that?",
+  "input" : "calm \n I've got a fat stack of pink lentils, should I bring that?",
   "response" : "I mean, im not sure how they would fit in"
 }, {
-  "input" : "fair enough for another time then",
-  "response" : "quite maybe we can try a salad with them or sth next time"
+  "input" : "fair enough \n for another time then",
+  "response" : "quite \n maybe we can try a salad with them or sth next time"
 }, {
-  "input" : "shout omw https://www.youtube.com/watch?v=JRuNA2eK7w0 D'you know this guy? He shows up sometimes in Computerphile, I quite like him I think you might like his videos",
-  "response" : "ill check do we have ip tutes this week cos we havent yet had all the lectures for the sheets I recognise him"
+  "input" : "shout \n omw \n https://www.youtube.com/watch?v=JRuNA2eK7w0 \n D'you know this guy? He shows up sometimes in Computerphile, I quite like him \n I think you might like his videos",
+  "response" : "ill check \n do we have ip tutes this week \n cos we havent yet had all the lectures for the sheets \n I recognise him"
 }, {
   "input" : "yeah (unfortunately)",
   "response" : "aghhh"
@@ -255,19 +255,19 @@
   "response" : "rip okay wanna work on that together tomorrow?"
 }, {
   "input" : "yeah that's a shout$",
-  "response" : "aite Lmk when you get back you coming?"
+  "response" : "aite \n Lmk when you get back \n you coming?"
 }, {
-  "input" : "Yeah Is it still alright?",
-  "response" : "yaya im gonna need it tbh"
+  "input" : "Yeah \n Is it still alright?",
+  "response" : "yaya \n im gonna need it \n tbh"
 }, {
-  "input" : "Right On my way! Note that for Question3 we were trying to find the minimum but as it happens the trait PartialOrder[T] specifies a method lub (least upper bound) do you think we could just use that?",
-  "response" : "Yes probably I'm getting error not found type t Idk why whats the parametric type of a polymorphic set extended with Partial Order as was done with mysillyset"
+  "input" : "Right On my way! \n Note that for Question3 we were trying to find the minimum but as it happens the trait PartialOrder[T] specifies a method lub (least upper bound) do you think we could just use that?",
+  "response" : "Yes probably \n I'm getting error not found type t \n Idk why \n whats the parametric type of a polymorphic set extended with Partial Order \n as was done with mysillyset"
 }, {
   "input" : "I have no idea ð­",
-  "response" : "How did you type 3 I've done four with the array implementation And it is beautifully messy But I did improve it By getting rid of magic numbers Using options"
+  "response" : "How did you type 3 \n I've done four with the array implementation \n And it is beautifully messy \n But I did improve it \n By getting rid of magic numbers \n Using options"
 }, {
-  "input" : "??? I'm very confused by everything",
-  "response" : "My implementation of bags is basically just my implementation of sets With the addition of a countArray"
+  "input" : "??? \n I'm very confused by everything",
+  "response" : "My implementation of bags is basically just my implementation of sets \n With the addition of a countArray"
 }, {
   "input" : "haven't gotten to bags yet ð¢",
   "response" : "It makes union hilariously inefficient"
@@ -275,52 +275,52 @@
   "input" : "that is actually amazing",
   "response" : "Do you dislike it if I have a public variable in my private iterator anonymous class that I use later"
 }, {
-  "input" : "um that sounds confusing how can you have a public class? what does that even mean? I know constructors can be private but not classes",
-  "response" : "Yeah ignore that part It's a private method to access the clads Class"
+  "input" : "um that sounds confusing \n how can you have a public class? \n what does that even mean? \n I know constructors can be private \n but not classes",
+  "response" : "Yeah ignore that part \n It's a private method to access the clads \n Class"
 }, {
   "input" : "So you're making an anonymous class which extends Iterator which has a private var that you're using where?",
-  "response" : "I'm using it in bag Also I'm now getting an illegal start of declaration when I didn't forget the = Oh nvm lol"
+  "response" : "I'm using it in bag \n Also I'm now getting an illegal start of declaration when I didn't forget the = \n Oh nvm lol"
 }, {
   "input" : "what's the argument to your constructor for Bag[T]",
-  "response" : "I'm doing something similar to the arrayset I.e. two arrays"
+  "response" : "I'm doing something similar to the arrayset \n I.e. two arrays"
 }, {
-  "input" : "hum Will that work with the sample code they provide? Like what is the type of the thing they pass to the constructor in : val b0: Bag[Any] = (new Bag((x) => List(0, 0.0, \"zero\", 0).count(x==_)))",
-  "response" : "It doesn't work yet And no I'm gonna supply another method"
+  "input" : "hum \n Will that work with the sample code they provide? \n Like what is the type of the thing they pass to the constructor in : \n val b0: Bag[Any] = (new Bag((x) => List(0, 0.0, \"zero\", 0).count(x==_)))",
+  "response" : "It doesn't work yet \n And no I'm gonna supply another method"
 }, {
   "input" : "I think we can deduce the type thooo",
   "response" : "Aya"
 }, {
   "input" : "Have you used the observation",
-  "response" : "No I considered it But that's like maps and stuff"
+  "response" : "No \n I considered it \n But that's like maps and stuff"
 }, {
-  "input" : "My thinking is class Bag[T](val f: T => Int) {",
-  "response" : "And who likes maps How was your tute If you've not left Cs yet do tell"
+  "input" : "My thinking is \n class Bag[T](val f: T => Int) {",
+  "response" : "And who likes maps \n How was your tute \n If you've not left Cs yet do tell"
 }, {
-  "input" : "'Twas alright D'you have your IP tute?",
+  "input" : "'Twas alright \n D'you have your IP tute?",
   "response" : "Ya"
 }, {
   "input" : "How 'twas?",
-  "response" : "Ehhh still up for lunch"
+  "response" : "Ehhh \n still up for lunch"
 }, {
   "input" : "I'm probs going to head to hall soon",
-  "response" : "fair hey you submitted your fp?"
+  "response" : "fair \n hey you submitted your fp?"
 }, {
-  "input" : "nuuu I'm about to get stared in the lib",
-  "response" : "oh rip was gonna suggest you cycling me there then onto the market"
+  "input" : "nuuu \n I'm about to get stared in the lib",
+  "response" : "oh rip \n was gonna suggest you cycling me there then onto the market"
 }, {
   "input" : "haha that'd a been a shout ð",
-  "response" : "Next time yo you got anything planned for dinner"
+  "response" : "Next time \n yo you got anything planned for dinner"
 }, {
   "input" : "I'm gonna be helping for the french soc's Cheese & Wine event in ChCh",
   "response" : "ooh fun"
 }, {
   "input" : "Feel free to come!",
-  "response" : "will there be dinner chch is such a trek"
+  "response" : "will there be dinner \n chch is such a trek"
 }, {
   "input" : "There'll be lots of cheese and lots of wine",
   "response" : "what time is that too"
 }, {
-  "input" : "This is true (get a bikeeee)",
+  "input" : "This is true \n (get a bikeeee)",
   "response" : "get you a boy to bike you you mean"
 }, {
   "input" : "I'll be headed there early to set things up",
@@ -329,52 +329,52 @@
   "input" : "https://www.facebook.com/events/187090148852305/",
   "response" : "Thanks I'll give it a think"
 }, {
-  "input" : "Do you know about binaural sounds? https://www.youtube.com/watch?v=aQH-jwE_kfo Also what was the fancy dinner / drinks you were headed to today?",
-  "response" : "noo that was choir what are binaural sounds"
+  "input" : "Do you know about binaural sounds? \n https://www.youtube.com/watch?v=aQH-jwE_kfo \n Also what was the fancy dinner / drinks you were headed to today?",
+  "response" : "noo \n that was choir \n what are binaural sounds"
 }, {
   "input" : "things that were recorded using microphones placed in real fake heads and ears",
   "response" : "lmao what"
 }, {
-  "input" : "https://en.wikipedia.org/wiki/Binaural_recording#/media/File:Head_and_torso_simulator.jpg So check the yt link out, while listening with headphones, it's creepy",
-  "response" : "ohhh you need headphones rigght ill try that later you done labs yet"
+  "input" : "https://en.wikipedia.org/wiki/Binaural_recording#/media/File:Head_and_torso_simulator.jpg \n So check the yt link out, while listening with headphones, it's creepy",
+  "response" : "ohhh you need headphones rigght ill try that later \n you done labs yet"
 }, {
   "input" : "yess",
   "response" : "how much work is it"
 }, {
   "input" : "It's quite a bit actually",
-  "response" : "oh rip time to start I suppose"
+  "response" : "oh rip \n time to start I suppose"
 }, {
-  "input" : "It's alright if you've taken a look at the different files and stuff a shit gl ð Nah but you've started already You should be fine What's the name of the cheese looking thing that we used for Ramen? The thing that the knifes just flowed through?",
-  "response" : "wish me luck tofu lmao"
+  "input" : "It's alright if you've taken a look at the different files and stuff \n a shit gl ð \n Nah but you've started already \n You should be fine \n What's the name of the cheese looking thing that we used for Ramen? The thing that the knifes just flowed through?",
+  "response" : "wish me luck \n tofu lmao"
 }, {
-  "input" : "yeah gl If you want help I'm glad",
-  "response" : "im fine for no now but in the morning if im running out of time Implementing the stuff in undoable editor is annoying"
+  "input" : "yeah gl \n If you want help I'm glad",
+  "response" : "im fine for no \n now \n but in the morning if im running out of time \n Implementing the stuff in undoable editor is annoying"
 }, {
   "input" : "Isn't it?",
-  "response" : "Can I just cut to undo paste Presumably not Can I rely on the clipboard being the same"
+  "response" : "Can I just cut to undo paste \n Presumably not \n Can I rely on the clipboard being the same"
 }, {
-  "input" : "That sounds reasonable Unfortunately not",
-  "response" : "Okay yeah I think it's an open question as to whether cuting should override what's currently on the clipboard when used as an undo or redo for paste/cut It's all g"
+  "input" : "That sounds reasonable \n Unfortunately not",
+  "response" : "Okay yeah I think it's an open question as to whether cuting should override what's currently on the clipboard when used as an undo or redo for paste/cut \n It's all g"
 }, {
-  "input" : "Ya that's a fair point Although I don't think the clipboard should over be overwritten",
-  "response" : "yeah if you think about usecases if you cut something carryon writing a load ctrl z like mad then accidentally over shoot you probably dont want your redos to get rid of what is currently on the clipboard oh well what are candidate numbers"
+  "input" : "Ya that's a fair point \n Although I don't think the clipboard should over be overwritten",
+  "response" : "yeah if you think about usecases \n if you cut something \n carryon writing a load \n ctrl z like mad \n then accidentally over shoot \n you probably dont want your redos to get rid of what is currently on the clipboard \n oh well \n what are candidate numbers"
 }, {
-  "input" : "https://evision.ox.ac.uk > my exams",
-  "response" : "life savour and honour school?"
+  "input" : "https://evision.ox.ac.uk \n > my exams",
+  "response" : "life savour \n and honour school?"
 }, {
-  "input" : "I was about to ask lol I think we can do without, they should be able to tell us what to do when we get there?",
-  "response" : "yeah you been yet wanna meet in a few mins"
+  "input" : "I was about to ask lol \n I think we can do without, they should be able to tell us what to do when we get there?",
+  "response" : "yeah \n you been yet \n wanna meet in a few mins"
 }, {
   "input" : "nu",
   "response" : "nu?"
 }, {
-  "input" : "I know Shengwei and Alicja still haven't gone nu to this soz for the confusion So I might want to go with them too?",
-  "response" : "well message them we need to go soon"
+  "input" : "I know Shengwei and Alicja still haven't gone \n nu to this \n soz for the confusion \n So I might want to go with them too?",
+  "response" : "well message them \n we need to go soon"
 }, {
-  "input" : "Alicja's not answering... Indeed My backup plan is to bail and bike",
-  "response" : "gosh well I should probs go"
+  "input" : "Alicja's not answering... \n Indeed \n My backup plan is to bail and bike",
+  "response" : "gosh \n well I should probs go"
 }, {
-  "input" : "ya chacun pour soi, saly sadly*",
+  "input" : "ya \n chacun pour soi, saly \n sadly*",
   "response" : "Wanna join Dylan and I for lunch at a market"
 }, {
   "input" : "D'you guys end up going?",
@@ -384,7 +384,7 @@
   "response" : "Guuud"
 }, {
   "input" : "Which CS paper are we meant to do?",
-  "response" : "ermmm I think it was an attachment it was called trinity term revision 2019"
+  "response" : "ermmm I think it was an attachment \n it was called trinity term revision \n 2019"
 }, {
   "input" : "thkx!",
   "response" : "get to work"
@@ -398,26 +398,26 @@
   "input" : "Idk ðð",
   "response" : "Can you ?check?"
 }, {
-  "input" : "Thu 27 Jun, 14:30 to 17:00 joint with probability",
+  "input" : "Thu 27 Jun, 14:30 to 17:00 \n joint with probability",
   "response" : "ah okay nvm"
 }, {
-  "input" : "Y u ask? You don't have CM?",
-  "response" : "calculators I have dm instead"
+  "input" : "Y u ask? \n You don't have CM?",
+  "response" : "calculators \n I have dm instead"
 }, {
   "input" : "a-ha",
   "response" : "take me on"
 }, {
-  "input" : "And you need calculators for DM ?",
-  "response" : "an a-ha song indeed"
+  "input" : "And you need calculators for DM \n ?",
+  "response" : "an a-ha song \n indeed"
 }, {
   "input" : "A-ha, I always though it was called 'take me on'!",
-  "response" : "its take on me but"
+  "response" : "its take on me \n but"
 }, {
   "input" : "but?",
   "response" : "it also has the line take me on"
 }, {
   "input" : "ð",
-  "response" : "you know when varun said that those questions sheets werent relevant was he being sarcastic im confused wanna meet after lunch to do some quick work? https://quizlet.com/_6ryl4w DIY space for London Come over whenever x"
+  "response" : "you know when varun said that those questions sheets werent relevant \n was he being sarcastic im confused \n wanna meet after lunch to do some quick work? \n https://quizlet.com/_6ryl4w \n DIY space for London \n Come over whenever x"
 }, {
   "input" : "Thanks! ð I'm about to go to breakfast so I'll be with you in ~45",
   "response" : "for sure"
@@ -431,7 +431,7 @@
   "input" : "ð",
   "response" : "you coming at all"
 }, {
-  "input" : "sorry I'm bad Yes if that's alright",
+  "input" : "sorry I'm bad \n Yes if that's alright",
   "response" : "yaya"
 }, {
   "input" : "like in 10?",
@@ -441,37 +441,37 @@
   "response" : "okie"
 }, {
   "input" : "Ya Alicja's popping by so a little longer",
-  "response" : "okey max, at 8 gimme half an hour. max, at 915 gimme 10, dylan 1 hour later, Am I a joke to you.\nOn a more serious note feel free to come, I wont be going to bed till 1 so, but dont feel pressured to"
+  "response" : "okey \n max, at 8 gimme half an hour. max, at 915 gimme 10, dylan 1 hour later, Am I a joke to you.\nOn a more serious note feel free to come, I wont be going to bed till 1 so, but dont feel pressured to"
 }, {
-  "input" : "Right, I'll call my Grandpa cuz it's his bday and then I'll *finally* come over It's just that Old Hall is far away, ya know",
+  "input" : "Right, I'll call my Grandpa cuz it's his bday and then I'll *finally* come over \n It's just that Old Hall is far away, ya know",
   "response" : "ya think"
 }, {
   "input" : "On my way!",
   "response" : "I'll believe it when I see it"
 }, {
-  "input" : "Seemingly I just can't get enough of Haskell so I started looking at Category theory (instead of pure maths for next week): \"capital id applied to id of capital x equals id of capital x equals id of capital id of capital x\" this is totally my jam Here are the notes I'm looking at if you're interested, it's basically Haskell on steroids but actually well explained: https://spivey.oriel.ox.ac.uk/wiki2/images/1/1e/Category_Notes.pdf",
-  "response" : "lmao will do once ive got the energy in the meantime dO sOME wORK"
+  "input" : "Seemingly I just can't get enough of Haskell so I started looking at Category theory (instead of pure maths for next week): \n \"capital id applied to id of capital x equals id of capital x equals id of capital id of capital x\" \n this is totally my jam \n Here are the notes I'm looking at if you're interested, it's basically Haskell on steroids but actually well explained: https://spivey.oriel.ox.ac.uk/wiki2/images/1/1e/Category_Notes.pdf",
+  "response" : "lmao \n will do once ive got the energy \n in the meantime \n dO sOME wORK"
 }, {
   "input" : "Thanks for letting me borrow / sorry for stealing your markers! ðð",
-  "response" : "no worrie Woah my band has a song w the same name as yesterday's bop"
+  "response" : "no worrie \n Woah my band has a song w the same name as yesterday's bop"
 }, {
   "input" : "\"Dynamic duo\"?",
   "response" : "yup"
 }, {
   "input" : "Bop was \"iconic duo\" I think, close enough!",
-  "response" : "ah damn"
+  "response" : "ah \n damn"
 }, {
   "input" : "That counts ð",
   "response" : "yeah ill take it"
 }, {
   "input" : "Strong flex",
-  "response" : "you know it wanna study outside today 1ish"
+  "response" : "you know it \n wanna study outside today 1ish"
 }, {
   "input" : "yea boi",
   "response" : "aite where dya wanna meat"
 }, {
-  "input" : "I'm a veri wite boi so I need some shade The bar has sun-brella's And tables so we can sit hopefully it isn't buzy wanna go there?",
-  "response" : "sounds good shall I bring ma whiteboar d"
+  "input" : "I'm a veri wite boi so I need some shade \n The bar has sun-brella's \n And tables so we can sit \n hopefully it isn't buzy \n wanna go there?",
+  "response" : "sounds good \n shall I bring ma whiteboar \n d"
 }, {
   "input" : "That would be amazing",
   "response" : "aite"
@@ -479,25 +479,25 @@
   "input" : "I'ma pack my shit and be omw",
   "response" : "so shall we say 5 mins"
 }, {
-  "input" : "poyfect Right - I need to learn how time works",
-  "response" : "How was the exam today I'd be a bit hurt if you made it on time"
+  "input" : "poyfect \n Right - I need to learn how time works",
+  "response" : "How was the exam today \n I'd be a bit hurt if you made it on time"
 }, {
-  "input" : "T'was alright Made it in time? As in finished all the exercises in time or made it to the exam on time?",
+  "input" : "T'was alright \n Made it in time? \n As in finished all the exercises in time or made it to the exam on time?",
   "response" : "Made it to it"
 }, {
   "input" : "I did make it in time",
   "response" : "Rude"
 }, {
   "input" : "how so?",
-  "response" : "Youre never on time for me Big sad"
+  "response" : "Youre never on time for me \n Big sad"
 }, {
   "input" : "ugg I'm sorry I'm so bad",
   "response" : "Issokay I will only never forgive you"
 }, {
   "input" : "gulp",
-  "response" : "Unless I remember the time you got me chocolate Though it doesn't quite beat the free dinner I got tonight due to someone being laye"
+  "response" : "Unless I remember the time you got me chocolate \n Though it doesn't quite beat the free dinner I got tonight due to someone being laye"
 }, {
-  "input" : "I'm still rather confused to be honest I'd imagine me not remembering doesn't make it better",
+  "input" : "I'm still rather confused to be honest \n I'd imagine me not remembering doesn't make it better",
   "response" : "Confused about what"
 }, {
   "input" : "this whole dinner ordeal",
@@ -507,52 +507,52 @@
   "response" : "If you wanna do some more study together some point hmu"
 }, {
   "input" : "probability is the last thing we have in common right",
-  "response" : "Yeah Did you know you can extend the times on lmh dryers"
+  "response" : "Yeah \n Did you know you can extend the times on lmh dryers"
 }, {
   "input" : "what.",
   "response" : "Ikr"
 }, {
   "input" : "ð®",
-  "response" : "you just like pay again on the machine 10p for 5 mins or sth"
+  "response" : "you just like pay again on the machine \n 10p \n for 5 mins \n or sth"
 }, {
-  "input" : "dope thanks for the tip",
-  "response" : "no problemo when you going in the river"
+  "input" : "dope \n thanks for the tip",
+  "response" : "no problemo \n when you going in the river"
 }, {
   "input" : "Alicja just finished her exam, we're gonna meet outside Talbot with her, Anja, and I",
   "response" : "Where are you guys"
 }, {
   "input" : "I'm waiting for Alicja in Deneke",
-  "response" : "Ah okay Yasmin and co are waiting for you Have you been trashed at all yet Imma catch dinner then come out and watch Hey could you do a big favour and call my landlord to say I'm here I've got no signal"
+  "response" : "Ah okay \n Yasmin and co are waiting for you \n Have you been trashed at all yet \n Imma catch dinner then come out and watch \n Hey could you do a big favour and call my landlord to say I'm here \n I've got no signal"
 }, {
   "input" : "Sure XD",
-  "response" : "0176 22610691 Tysm"
+  "response" : "0176 22610691 \n Tysm"
 }, {
   "input" : "My contract should allow me to call in Germany hopefully",
   "response" : "Say I'm outside ha noi fusion"
 }, {
-  "input" : "Okay He speaks English right?",
-  "response" : "Tysm omg This is v stressful Hopefully"
+  "input" : "Okay \n He speaks English right?",
+  "response" : "Tysm omg \n This is v stressful \n Hopefully"
 }, {
   "input" : "Ok wait I'm having trouble composing the number",
   "response" : "Okay wait might not need you gimme a sev"
 }, {
   "input" : "Country code bullshit or something",
-  "response" : "Yeah it's the worst Problem is Tesco mobile is really bad in Germany idk why"
+  "response" : "Yeah it's the worst \n Problem is Tesco mobile is really bad in Germany idk why"
 }, {
   "input" : "Ok shit my phone contract does allow me to call German numbers sorry",
   "response" : "Okay dw we are all good"
 }, {
   "input" : "Ok great",
-  "response" : "My proxy got through to her It's a whole thing"
+  "response" : "My proxy got through to her \n It's a whole thing"
 }, {
-  "input" : "Oh gosh proxy's A real life one too? Enjoy DE!",
-  "response" : "Thank youuu For my internship im using kotlin Which similarly to scala is modified java Excitingly it's got folds"
+  "input" : "Oh gosh proxy's \n A real life one too? \n Enjoy DE!",
+  "response" : "Thank youuu \n For my internship im using kotlin \n Which similarly to scala is modified java \n Excitingly it's got folds"
 }, {
-  "input" : "â¤ï¸ Apparently Google likes kotlin a lot They say it's their preferred language for android development you guys doing anything android related per chance?",
-  "response" : "Woah Um it is Google related Yk that nda"
+  "input" : "â¤ï¸ \n Apparently Google likes kotlin a lot \n They say it's their preferred language for android development \n you guys doing anything android related per chance?",
+  "response" : "Woah \n Um it is Google related \n Yk that nda"
 }, {
   "input" : "Oh nda's ð©",
-  "response" : "I'm not sure what I'm allowed to say But basically I'm fucking around with Google home Also kotlin handles null like a monad"
+  "response" : "I'm not sure what I'm allowed to say \n But basically I'm fucking around with Google home \n Also kotlin handles null like a monad"
 }, {
   "input" : "Google home's not as popular as Alexa is it?",
   "response" : "No it isnt"
@@ -561,10 +561,10 @@
   "response" : "Kinda"
 }, {
   "input" : "Is it like a chain of Maybe's?",
-  "response" : "It's basically like the maybe monad Yeah It's like if it gets null as input it outputs null otherwise it does what you expect"
+  "response" : "It's basically like the maybe monad \n Yeah \n It's like if it gets null as input it outputs null otherwise it does what you expect"
 }, {
   "input" : "Did you read up on the FP lecture notes?",
-  "response" : "So it's all nice and safe Nah don't need it"
+  "response" : "So it's all nice and safe \n Nah don't need it"
 }, {
   "input" : "So it's like an alternative to try/catch/finally",
   "response" : "Yeah"
@@ -572,20 +572,20 @@
   "input" : "What happens if you really really need a thing not to return null but then it does? How do you exception handle that?",
   "response" : "What do you mean"
 }, {
-  "input" : "Idk actually ð Maybe at times you actually want your entire application to fail? Idk I don't do actual software development",
-  "response" : "Yeah can do that as well You don't need to use the monad Then you can just do try catch"
+  "input" : "Idk actually ð \n Maybe at times you actually want your entire application to fail? Idk I don't do actual software development",
+  "response" : "Yeah can do that as well \n You don't need to use the monad \n Then you can just do try catch"
 }, {
-  "input" : "Like what if you have a graphical application and then you call a function to create a window and that returns I'll Null*",
-  "response" : "That would be bad You can use if == null So it's all g"
+  "input" : "Like what if you have a graphical application and then you call a function to create a window and that returns I'll \n Null*",
+  "response" : "That would be bad \n You can use if == null \n So it's all g"
 }, {
   "input" : "What a luxury to have both a language that's both functional and imperative!",
-  "response" : "Ik ITS like scala But not It's got lambda expressions too Also you can declare extensions of functions and just add methods Extensions of classes by just adding methods"
+  "response" : "Ik ITS like scala \n But not \n It's got lambda expressions too \n Also you can declare extensions of functions and just add methods \n Extensions of classes by just adding methods"
 }, {
   "input" : "In the style of Anonymous classes?",
-  "response" : "Not really So you could just define a method class.method = on the top level of the code Which you could achieve with anonymous classes I suppose But"
+  "response" : "Not really \n So you could just define a method class.method = on the top level of the code \n Which you could achieve with anonymous classes I suppose \n But"
 }, {
-  "input" : "Powerful! ð® I've been reading up on Category theory That's where the \"id id id id\" thing came from I find it really fun, it's like next level Haskell All about functors and natural transformations from functors to functors, categories, arrows, monoids - dreamy stuff",
-  "response" : "Mmm Its not a cs module right? I can do philosophical category theory but I don't know if it is the same howd exam result sgo"
+  "input" : "Powerful! ð® \n I've been reading up on Category theory \n That's where the \"id id id id\" thing came from \n I find it really fun, it's like next level Haskell \n All about functors and natural transformations from functors to functors, categories, arrows, monoids - dreamy stuff",
+  "response" : "Mmm \n Its not a cs module right? \n I can do philosophical category theory but I don't know if it is the same \n howd exam result sgo"
 }, {
   "input" : "partial pass",
   "response" : "What do you need to resit"
@@ -594,7 +594,7 @@
   "response" : "What did you get for fp and ip"
 }, {
   "input" : "78 for FP\n82 for IP",
-  "response" : "And I suppose you kinda knew it went like that Dammmmn 82 on ip"
+  "response" : "And I suppose you kinda knew it went like that \n Dammmmn \n 82 on ip"
 }, {
   "input" : "ya",
   "response" : "Blew me out the water on those"
@@ -606,7 +606,7 @@
   "response" : "With much lower variance"
 }, {
   "input" : "or overall?",
-  "response" : "Overall Ip was only 63 Which I thought went really well And fp was 66 Which I thought I failed"
+  "response" : "Overall \n Ip was only 63 \n Which I thought went really well \n And fp was 66 \n Which I thought I failed"
 }, {
   "input" : "wow",
   "response" : "Worst was probability"
@@ -614,41 +614,41 @@
   "input" : "surprising",
   "response" : "Unsurprisingly"
 }, {
-  "input" : "I knew I did well on FP and IP, I knew I did badly on CM, but I didn't expect things to be so extreme I got 25 for CM",
+  "input" : "I knew I did well on FP and IP, I knew I did badly on CM, but I didn't expect things to be so extreme \n I got 25 for CM",
   "response" : "Omg"
 }, {
   "input" : "talk about variance",
-  "response" : "Yeah jesus I feel so bad for you having to do more continuous maths Or do you not need to"
+  "response" : "Yeah jesus \n I feel so bad for you having to do more continuous maths \n Or do you not need to"
 }, {
-  "input" : "yeah I have to resit urg",
+  "input" : "yeah I have to resit \n urg",
   "response" : "You notice that you did best on stuff we revised together"
 }, {
   "input" : "Exactly!!!",
   "response" : "Clearly we need to take the same Cs modules"
 }, {
   "input" : "clearly you should switch to M&CS",
-  "response" : "That would be a bold move Varun might question it given my weakness in maths"
+  "response" : "That would be a bold move \n Varun might question it given my weakness in maths"
 }, {
   "input" : "how was prelims for the Phil part actually?",
   "response" : "Mixed bag"
 }, {
   "input" : "also close to the 60 mark?",
-  "response" : "The essay part was 55 No 56 Which is just kinda sad Cos it was the only part with Cs and Phil together The logic was my best paper"
+  "response" : "The essay part was 55 \n No 56 \n Which is just kinda sad \n Cos it was the only part with Cs and Phil together \n The logic was my best paper"
 }, {
   "input" : "about turing machines?",
-  "response" : "Yeah Tbf two of my essays were real bad And I did soooo little revision for it"
+  "response" : "Yeah \n Tbf two of my essays were real bad \n And I did soooo little revision for it"
 }, {
   "input" : "the thought of essays frightens me",
   "response" : "Dw I won't mention them again"
 }, {
-  "input" : "XD I have PTSD from high school (jk)",
-  "response" : "It's call Cool They'll introduce a kotlin exam And I'll do great"
+  "input" : "XD \n I have PTSD from high school (jk)",
+  "response" : "It's call \n Cool \n They'll introduce a kotlin exam \n And I'll do great"
 }, {
   "input" : "I'm really sad that I got into Scala only at the end of hilary",
-  "response" : "Yeah same tbh Imagine if we had had fun during hilary"
+  "response" : "Yeah same tbh \n Imagine if we had had fun during hilary"
 }, {
-  "input" : "Whatever language we do next, let's get into it quickly Actually, have you looked into the modules for next year?",
-  "response" : "Not too much You?"
+  "input" : "Whatever language we do next, let's get into it quickly \n Actually, have you looked into the modules for next year?",
+  "response" : "Not too much \n You?"
 }, {
   "input" : "not much either",
   "response" : "There are quite a few required courses"
@@ -657,49 +657,49 @@
   "response" : "But we gotta do machine learning"
 }, {
   "input" : "and that seems painfullly fun",
-  "response" : "I would get fucked by compilers But it does sound fun"
+  "response" : "I would get fucked by compilers \n But it does sound fun"
 }, {
   "input" : "machine learning builds off continuous maths, jikes",
   "response" : "Yike"
 }, {
   "input" : "you should come to resits with me",
-  "response" : "I'm stuck in munich Come study here"
+  "response" : "I'm stuck in munich \n Come study here"
 }, {
   "input" : "Till September?!",
-  "response" : "Till October There is a bean bag just for you Nothing is more annoying in programming than the spelling of colour"
+  "response" : "Till October \n There is a bean bag just for you \n Nothing is more annoying in programming than the spelling of colour"
 }, {
   "input" : "Just to be clear, the CORRECT spelling is indisputably color",
-  "response" : "It hurts You don't know how much it hurts I refuse to misspell it"
+  "response" : "It hurts \n You don't know how much it hurts \n I refuse to misspell it"
 }, {
-  "input" : "GRAYSCALE FLAVOR FIBER CATALOG",
-  "response" : "In the programming language we make next year I'm using English spelling I think we should make functions first class by having methods implement classes Which is I suppose what Haskell does nvm Well slightly different"
+  "input" : "GRAYSCALE \n FLAVOR \n FIBER \n CATALOG",
+  "response" : "In the programming language we make next year I'm using English spelling \n I think we should make functions first class by having methods implement classes \n Which is I suppose what Haskell does nvm \n Well slightly different"
 }, {
   "input" : "Have classes be implemented as functions? Is that what you mean?",
-  "response" : "No more that instead of writing classes and then what methods they have, you only write methods, then subscribe classes to them So in scala like notation def add(X: Int) : Int = \n   Class Int { this + X}\n   Class bigInt ... And so on This would be silly"
+  "response" : "No more that instead of writing classes and then what methods they have, you only write methods, then subscribe classes to them \n So in scala like notation \n def add(X: Int) : Int = \n   Class Int { this + X}\n   Class bigInt ... \n And so on \n This would be silly"
 }, {
-  "input" : "Interesting - is that how it works in kotlin? Actually that's kind of how it works in scala: with typeclasses for instance Show is a typeclass, and it specifies that anything which belongs to the Show typeclass supports a method (lowercase) show :: Show a => a -> String then if you want to make a thing a show, all you do is define the show function for whatever instance Show a => Show [a] where\n    show [] = \"[]\"\n    show (x:xs) = \"[\" ++ show x ++ concat (map (\\x -> ',' : show x) xs) ++ \"]\" or something like that",
-  "response" : "No although you can kinda do that in kotlin With class extensions But yeah you are right it is like show Or fold Is it not the functor concept Whatever functors are You could have fun stuff like method inheritance of methods Wait no that's meaningless nvm Method inheritance of classes? Ignore the above So type casts are like an -able trait Foldable etc"
+  "input" : "Interesting - is that how it works in kotlin? \n Actually that's kind of how it works in scala: with typeclasses \n for instance Show is a typeclass, and it specifies that anything which belongs to the Show typeclass supports a method (lowercase) show :: Show a => a -> String \n then if you want to make a thing a show, all you do is define the show function for whatever \n instance Show a => Show [a] where\n    show [] = \"[]\"\n    show (x:xs) = \"[\" ++ show x ++ concat (map (\\x -> ',' : show x) xs) ++ \"]\" \n or something like that",
+  "response" : "No although you can kinda do that in kotlin \n With class extensions \n But yeah you are right it is like show \n Or fold \n Is it not the functor concept \n Whatever functors are \n You could have fun stuff like method inheritance of methods \n Wait no that's meaningless nvm \n Method inheritance of classes? \n Ignore the above \n So type casts are like an -able trait \n Foldable etc"
 }, {
   "input" : "Functors are parametric classes (or in Haskell types) (parametric because they have a type variable like [a] or Maybe a) which you can map over, so obv the [a] type is a functor - for lists it's map but more generally it's fmap\nfmap :: (Functor f) => (a -> b) -> f a -> f b\nIt also had to have certain rules notably\nâ¢ fmap id = id\nâ¢ fmap (f.g) = fmap f.fmap g",
   "response" : "Ah right"
 }, {
-  "input" : "Yeah exactly How do you define fmap for [a] ?",
-  "response" : "Map? Phew"
+  "input" : "Yeah exactly \n How do you define fmap for [a] \n ?",
+  "response" : "Map? \n Phew"
 }, {
   "input" : "And like the recursive definition is straightforward",
   "response" : "If you think about it every method in principle has an -able trait"
 }, {
   "input" : "What about Maybe a? Is that a functor?",
-  "response" : "Or rather for each method there is an -able trait Maybe"
+  "response" : "Or rather for each method there is an -able trait \n Maybe"
 }, {
   "input" : "I guess - but it's only interesting to make it -able if that thing's not alone",
-  "response" : "Is it? And true"
+  "response" : "Is it? \n And true"
 }, {
   "input" : "Yeah it is",
   "response" : "But I like the idea of that -able notion being defined instead of the method itself"
 }, {
-  "input" : "It feels as though there's more loose coupling somehow By doing it that way",
-  "response" : "Methods are far too strongly attached to classes and objects Do you think documentation for this hypothetical language would be more or less annoying"
+  "input" : "It feels as though there's more loose coupling somehow \n By doing it that way",
+  "response" : "Methods are far too strongly attached to classes and objects \n Do you think documentation for this hypothetical language would be more or less annoying"
 }, {
   "input" : "I guess in java the way to do it would be to create an interface (or Scala trait) and have other classes extend that trait",
   "response" : "Yeah it would"
@@ -711,40 +711,40 @@
   "response" : "Yeah it is close to Haskell"
 }, {
   "input" : "How readable to you find Haskell documentation?",
-  "response" : "But it needn't be so pure Like all it is is a reorganising of where you write the code"
+  "response" : "But it needn't be so pure \n Like all it is is a reorganising of where you write the code"
 }, {
   "input" : "I'm actually torn here - I want things to be pure sooo bad ð­",
-  "response" : "So you can still do all your ugly Oop shit But you can also be pure if you want All the actually useful stuff would be pure The main reason I'd prefer my thing Is that it would be much clearer what method your class would use In cases of overridden or overloaded methods Maybe you can have a pure trait For methods"
+  "response" : "So you can still do all your ugly Oop shit \n But you can also be pure if you want \n All the actually useful stuff would be pure \n The main reason I'd prefer my thing \n Is that it would be much clearer what method your class would use \n In cases of overridden or overloaded methods \n Maybe you can have a pure trait \n For methods"
 }, {
   "input" : "The issue then is that every classes' methods are spread all around the place kinda",
-  "response" : "Yeah ik You could have a converter that switches it for documentations sake"
+  "response" : "Yeah ik \n You could have a converter that switches it for documentations sake"
 }, {
-  "input" : "Ooo that sounds really neat! you'd have an IDE that shows you your code in two places at once and if you edit one it would change the other too",
+  "input" : "Ooo that sounds really neat! \n you'd have an IDE that shows you your code in two places at once and if you edit one it would change the other too",
   "response" : "Yaaa"
 }, {
   "input" : "ð",
-  "response" : "So it would encourage a functional style Mmm We could just write this as a plugin for intellij couldn't we"
+  "response" : "So it would encourage a functional style \n Mmm \n We could just write this as a plugin for intellij couldn't we"
 }, {
-  "input" : "Ooo V'never used",
+  "input" : "Ooo \n V'never used",
   "response" : "Fair"
 }, {
   "input" : "Is that the one u use?",
-  "response" : "I'm using it for my project Cos kotlin is made by the people who made intellij"
+  "response" : "I'm using it for my project \n Cos kotlin is made by the people who made intellij"
 }, {
   "input" : "What was the one u used for Scala?",
-  "response" : "I just use atom Normalement"
+  "response" : "I just use atom \n Normalement"
 }, {
   "input" : "Right",
   "response" : "Aite soon as I'm back from work I'm getting started how hard can it be"
 }, {
-  "input" : "ð Gl!!",
+  "input" : "ð \n Gl!!",
   "response" : "I mean it's just not going to happen but"
 }, {
   "input" : "I sense you're going to spend numerous hours staring at documentation",
   "response" : "I sense I'm going to spend 15 minutes then have a YouTube video playing then just stop reading the documentation"
 }, {
   "input" : "Possibly accurate",
-  "response" : "Oh wellll We've got all of next year"
+  "response" : "Oh wellll \n We've got all of next year"
 }, {
   "input" : "Dw I've found a website to download 3.4GB of free motivation",
   "response" : "I'd also like a deriving functionality"
@@ -753,51 +753,51 @@
   "response" : "It's beautiful"
 }, {
   "input" : "What's the craziest thing you've derived?",
-  "response" : "Nothing too crazy tbh You clearly have"
+  "response" : "Nothing too crazy tbh \n You clearly have"
 }, {
   "input" : "Just Show I think",
   "response" : "And ea"
 }, {
   "input" : "And Eq",
-  "response" : "Eq I want a ml based autoderiver Ml is good at abstracting right So it'll be good at finding the essence of printing or whatever"
+  "response" : "Eq \n I want a ml based autoderiver \n Ml is good at abstracting right \n So it'll be good at finding the essence of printing or whatever"
 }, {
   "input" : "ML = Machine Learning?",
   "response" : "Yes"
 }, {
-  "input" : "I'm not sure actually I've found just the right night club for us: https://www.google.com/maps/place/Scala/@51.5310017,-0.1211909,39a,48.2y,133.36h,55.95t/data=!3m1!1e3!4m5!3m4!1s0x48761b3f2b279bd9:0xf7e27edd05cceb25!8m2!3d51.5308032!4d-0.120806?hl=en Right next to King's cross too!",
+  "input" : "I'm not sure actually \n I've found just the right night club for us: https://www.google.com/maps/place/Scala/@51.5310017,-0.1211909,39a,48.2y,133.36h,55.95t/data=!3m1!1e3!4m5!3m4!1s0x48761b3f2b279bd9:0xf7e27edd05cceb25!8m2!3d51.5308032!4d-0.120806?hl=en \n Right next to King's cross too!",
   "response" : "we are going"
 }, {
-  "input" : "yes. I had an existential reali(z)ation come to me in a hazed dream last night: THE TRUTH IS HIGHLY COUPLED What do you think it means? I need an IP expert to crack this open",
-  "response" : "Shit It's true Truth is relative to each proposition, it can't be abstracted so what courses we thinking of taking next year"
+  "input" : "yes. \n I had an existential reali(z)ation come to me in a hazed dream last night: \n THE TRUTH IS HIGHLY COUPLED \n What do you think it means? \n I need an IP expert to crack this open",
+  "response" : "Shit \n It's true \n Truth is relative to each proposition, it can't be abstracted \n so what courses we thinking of taking next year"
 }, {
   "input" : "My childhood dream of a pure, stateless truth is destroyed ð­",
-  "response" : "That is very sad Another feature of kotlin is you can define default values for (named) class parameters in a really nice way, then when you call the class you only need to add parameters If you want non-default behaviour Which saves on having to write loads of this() methods"
+  "response" : "That is very sad \n Another feature of kotlin is you can define default values for (named) class parameters in a really nice way, then when you call the class you only need to add parameters \n If you want non-default behaviour \n Which saves on having to write loads of this() methods"
 }, {
   "input" : "I'm tempted by Concurrent programming and Compilers",
-  "response" : "I think imma do compilers too Not sure about concurrent magma :o"
+  "response" : "I think imma do compilers too \n Not sure about concurrent \n magma :o"
 }, {
-  "input" : "Ikr Hilariously all these names are real",
+  "input" : "Ikr \n Hilariously all these names are real",
   "response" : "Wauwww"
 }, {
   "input" : "Howâs DE doing you? Internship still doing strong?",
-  "response" : "De still not learnt any oops internships good thos tho got the assistant up and running"
+  "response" : "De \n still not learnt any oops \n internships good thos \n tho \n got the assistant up and running"
 }, {
   "input" : "I expect you to come back fluent in German",
-  "response" : "fuuuck im learning mandarin instead lmao May be going to a Haskell convention"
+  "response" : "fuuuck \n im learning mandarin instead lmao \n May be going to a Haskell convention"
 }, {
   "input" : "OMG YESS",
   "response" : "Come to Munich for it?"
 }, {
-  "input" : "Is it a SIG something conference? When is it?",
-  "response" : "Search up munihac you in italy rn so close get me some of that pls"
+  "input" : "Is it a SIG something conference? \n When is it?",
+  "response" : "Search up munihac \n you in italy rn \n so close \n get me some of that pls"
 }, {
   "input" : "What kills me is the drawings on the bottle",
-  "response" : "lmao very italian using gestures even on bottles"
+  "response" : "lmao very italian \n using gestures even on bottles"
 }, {
   "input" : "Every time I see a driver I keep thinking theyâre gesturing at me because theyâre annoyed I did something wrong but actually theyâre just on the phone or talking to a passenger lol",
-  "response" : "ahahaha gotta love italy which part you in"
+  "response" : "ahahaha \n gotta love italy \n which part you in"
 }, {
-  "input" : "We were in Riva del Garda, which is at the very north bit of the largest Italian lake, lake Garda Now weâre in Verona How far have you adventures into / out of Munich?",
+  "input" : "We were in Riva del Garda, which is at the very north bit of the largest Italian lake, lake Garda \n Now weâre in Verona \n How far have you adventures into / out of Munich?",
   "response" : "whos we"
 }, {
   "input" : "Adventured*",
@@ -807,25 +807,25 @@
   "response" : "ah fun"
 }, {
   "input" : "Damn!",
-  "response" : "ya its been gud brief trips but yk"
+  "response" : "ya its been gud \n brief trips but yk"
 }, {
-  "input" : "Thatâs pretty far to Yo*",
-  "response" : "well prague was but yk"
+  "input" : "Thatâs pretty far to \n Yo*",
+  "response" : "well prague was \n but yk"
 }, {
   "input" : "How was Strassbourg?",
-  "response" : "wait not strassbourg i meant salzburg"
+  "response" : "wait not strassbourg \n i meant salzburg"
 }, {
-  "input" : "Ah I though youâd gone to France ð¢",
-  "response" : "nahhh would have told you if i was visiting frogland"
+  "input" : "Ah \n I though youâd gone to France ð¢",
+  "response" : "nahhh \n would have told you if i was visiting frogland"
 }, {
   "input" : "Low key offended",
   "response" : "Better than potato land"
 }, {
-  "input" : "I love this already ð U going? Idk when my resits are exactly sadly But it sounds so fun!",
-  "response" : "I think I will go yes Ive sent an email asking what is schedule s2 You think ip is useless Until you acc have to implement your own hashcode and ewuals"
+  "input" : "I love this already ð \n U going? \n Idk when my resits are exactly sadly \n But it sounds so fun!",
+  "response" : "I think I will go yes \n Ive sent an email asking \n what is schedule s2 \n You think ip is useless \n Until you acc have to implement your own hashcode and ewuals"
 }, {
-  "input" : "https://www.youtube.com/watch?v=yTyX_EJQOIU This made me laugh so much!",
-  "response" : "Ive of course seen it already moons ago since we do watch the same channels very french map hommes ah hommes cartes did it make you proud"
+  "input" : "https://www.youtube.com/watch?v=yTyX_EJQOIU \n This made me laugh so much!",
+  "response" : "Ive of course seen it already \n moons ago \n since we do watch the same channels \n very french \n map hommes \n ah hommes cartes \n did it make you proud"
 }, {
   "input" : "I now better understand the france & onion thing, thanks to grown (map) men using them as props to get more views",
   "response" : "ahahha"
@@ -833,74 +833,74 @@
   "input" : "verrrry",
   "response" : "excelent"
 }, {
-  "input" : "the singing at the end is pure joy and also their adverts are systematically the best",
-  "response" : "oh I didnt notice that what is the singing something about vegeterians and the heart"
+  "input" : "the singing at the end is pure joy \n and also their adverts are systematically the best",
+  "response" : "oh I didnt notice that \n what is the singing \n something about vegeterians and the heart"
 }, {
   "input" : "talks about \"cul\", \"vampires\", \"Transylvania\", \"castles\", \"vegetarians\"???",
   "response" : "tres pecuiere"
 }, {
   "input" : "that was ~ real time",
-  "response" : "peculiere thats defo french right"
+  "response" : "peculiere \n thats defo french right"
 }, {
   "input" : "particulier",
-  "response" : "just pick synonyms that sound french thats my strategy non non comme strange"
+  "response" : "just pick synonyms that sound french thats my strategy \n non non comme strange"
 }, {
   "input" : "is that the equivalent to \"add an a at the end to make it spannish?\"",
-  "response" : "nono peculiar is definitely of french origin or however the engish word is spelt"
+  "response" : "nono \n peculiar is definitely of french origin \n or however the engish word is spelt"
 }, {
-  "input" : "peculiar? ya that spelling seems right",
+  "input" : "peculiar? \n ya that spelling seems right",
   "response" : "goddamn normans fucking up our language and making us speak garlic"
 }, {
   "input" : "ð",
-  "response" : "interesting that the french is particuliere you can acc use particular in engish to mean the same thing but its rarer so I assume peculiar is just an outdated term in french etymology is the best"
+  "response" : "interesting that the french is particuliere \n you can acc use particular in engish to mean the same thing \n but its rarer \n so I assume peculiar is just an outdated term in french \n etymology is the best"
 }, {
   "input" : "you guys were like \"fuck it, too many letters, lets switch it up, and slap the 'made in the UK' sticker on there\"",
-  "response" : "I want to make an a.i. that tries to predict etymology that would be a fun side project"
+  "response" : "I want to make an a.i. that tries to predict etymology \n that would be a fun side project"
 }, {
   "input" : "ooo",
   "response" : "huh apparently is directly from the latin rather than by the french"
 }, {
-  "input" : "incidentally, while looking up etymology on wikipedia, I discovered the existence of Toponymy dammit, we got shortcurtited",
-  "response" : "https://www.youtube.com/watch?v=Ko51cynAjzY also interesting like all his videos oooh there is an anglo-norman language https://en.wikipedia.org/wiki/Anglo-Norman_language see the thing about attorney general"
+  "input" : "incidentally, while looking up etymology on wikipedia, I discovered the existence of Toponymy \n dammit, we got shortcurtited",
+  "response" : "https://www.youtube.com/watch?v=Ko51cynAjzY \n also interesting \n like all his videos \n oooh \n there is an anglo-norman language \n https://en.wikipedia.org/wiki/Anglo-Norman_language \n see the thing about attorney general"
 }, {
   "input" : "Radio 4 - what a legend",
-  "response" : "yah my fav part french was the mother tongue of english kings unti 1413"
+  "response" : "yah my fav part \n french was the mother tongue of english kings unti 1413"
 }, {
-  "input" : "\"used in English law until c. 17th century\" - wikipedia stuff lingers I actually had to do that recently for a side project",
+  "input" : "\"used in English law until c. 17th century\" - wikipedia \n stuff lingers \n I actually had to do that recently for a side project",
   "response" : "yah"
 }, {
   "input" : "ip /is/ useful - you were right",
-  "response" : "yea it really is dont tell them I said that when are you back in the uk"
+  "response" : "yea it really is \n dont tell them I said that \n when are you back in the uk"
 }, {
   "input" : "resits, lol",
   "response" : "yah ik"
 }, {
   "input" : "wed 4th",
-  "response" : "what date ah so soon youll do great this time dw pls make it back"
+  "response" : "what date \n ah so soon \n youll do great this time dw \n pls make it back"
 }, {
-  "input" : "thanksssssss torn between laugh reacting and cry reacting",
-  "response" : "yeah understandable ill trash you again when we get back where are my college children"
+  "input" : "thanksssssss \n torn between laugh reacting and cry reacting",
+  "response" : "yeah understandable \n ill trash you again when we get back \n where are my college children"
 }, {
   "input" : "?",
-  "response" : "have you got yours yet this is making me anxious"
+  "response" : "have you got yours yet \n this is making me anxious"
 }, {
   "input" : "nah haven't",
   "response" : "okay good"
 }, {
-  "input" : "then again I'm not sure I would know email? I don't check them often enough ugg",
+  "input" : "then again I'm not sure I would know \n email? I don't check them often enough ugg",
   "response" : "I mean youre the first person ive spoken to from lmh so"
 }, {
   "input" : "\"Honey! I check the mailbox this morning - the kids are here!\"",
   "response" : "lmao"
 }, {
-  "input" : "fair I haven't heard anyone from lmh talk about kids",
-  "response" : "yeah probably they havent got their shit together yet /ever on another note im going bodyflying tomorrow which sounds sick"
+  "input" : "fair \n I haven't heard anyone from lmh talk about kids",
+  "response" : "yeah probably they havent got their shit together yet \n /ever \n on another note \n im going bodyflying tomorrow \n which sounds sick"
 }, {
-  "input" : "I've never heard of it but already it sounds amazing skydiving but in a box?",
-  "response" : "yah I think so cant wait also yk those scooters I tried one today"
+  "input" : "I've never heard of it but already it sounds amazing \n skydiving but in a box?",
+  "response" : "yah I think so \n cant wait \n also yk those scooters \n I tried one today"
 }, {
   "input" : "is that what skydivers use for training?",
-  "response" : "it was acc a lot of fun idk maybe"
+  "response" : "it was acc a lot of fun \n idk maybe"
 }, {
   "input" : "I've heard they are",
   "response" : "despite the inordinate amount of hate I feel towards users"
@@ -911,41 +911,41 @@
   "input" : "y,",
   "response" : "theres just sth very arrogant about them idk"
 }, {
-  "input" : "also how did this show up? explanation desired",
-  "response" : "my job they are having some sort of celebratory thing"
+  "input" : "also how did this show up? \n explanation desired",
+  "response" : "my job \n they are having some sort of celebratory thing"
 }, {
   "input" : "faires",
   "response" : "#perks spose"
 }, {
-  "input" : "I was scavenging for extravagant cartoons of scooter riders and ended up on an article by the economist https://www.economist.com/europe/2019/08/01/streets-ahead",
-  "response" : "ahahaha the title is a reference to a show called community"
+  "input" : "I was scavenging for extravagant cartoons of scooter riders and ended up on an article by the economist \n https://www.economist.com/europe/2019/08/01/streets-ahead",
+  "response" : "ahahaha \n the title is a reference to a show called community"
 }, {
   "input" : "they look too happy tho",
-  "response" : "which had donald glover aka childish gambino yah you see what i mean disgusting"
+  "response" : "which had donald glover \n aka childish gambino \n yah you see what i mean \n disgusting"
 }, {
   "input" : "I think the keywords for internet searches is \"scooter bros\"",
   "response" : "eewwwwwwwwwww"
 }, {
-  "input" : "this is gold <img src=\"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKqO_Dz2._Ok/v1/1000x-1.jpg\" alt=\"Image result for electric scooter bro meme\"/> Maximilien sent a link. scooter bro + earbuds + starbucks pure perfection",
-  "response" : "ahhhh thing is"
+  "input" : "this is gold \n <img src=\"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKqO_Dz2._Ok/v1/1000x-1.jpg\" alt=\"Image result for electric scooter bro meme\"/> \n Maximilien sent a link. \n scooter bro + earbuds + starbucks \n pure perfection",
+  "response" : "ahhhh \n thing is"
 }, {
   "input" : "i'll stop there",
-  "response" : "they will never replace cars they will only replace bikes oh well"
+  "response" : "they will never replace cars \n they will only replace bikes \n oh well"
 }, {
   "input" : "It's scary thinking of the extent to which cars are anchored into all of society's infrastructure",
   "response" : "indeed"
 }, {
   "input" : "and we don't even live in the US",
-  "response" : "the real solution is to have carshares we have the app infrastructure to do it with other vehicles cars are honestly not that much more work then we just electrify those and we gucci"
+  "response" : "the real solution is to have carshares \n we have the app infrastructure to do it with other vehicles \n cars are honestly not that much more work \n then we just electrify those \n and we gucci"
 }, {
-  "input" : "There's this app in France called Blablacar had the opportunity to use it recently, worked great",
-  "response" : "only reason it hasnt happened yet that much is the high capital ah cool"
+  "input" : "There's this app in France called Blablacar \n had the opportunity to use it recently, worked great",
+  "response" : "only reason it hasnt happened yet that much is the high capital \n ah cool"
 }, {
   "input" : "(sprinkle a bit of national pride)",
-  "response" : "you have a driving license ?"
+  "response" : "you have a driving license \n ?"
 }, {
   "input" : "na",
-  "response" : "we love to see it as a fellow eu national im also proud"
+  "response" : "we love to see it \n as a fellow eu national im also proud"
 }, {
   "input" : "used someone else's car",
   "response" : "ahh"
@@ -954,73 +954,73 @@
   "response" : "ahhh I see"
 }, {
   "input" : "there was me and another passenger, an italian med student. Had a fun conversation",
-  "response" : "so its like uber for sharing rides kinda that is acc really cool gives you hope. then you look at the amazon rip"
+  "response" : "so its like uber for sharing rides kinda that is acc really cool \n gives you hope. then you look at the amazon \n rip"
 }, {
   "input" : "How was body diving?",
-  "response" : "Pretty insane How do you know I'm spookee"
+  "response" : "Pretty insane \n How do you know I'm spookee"
 }, {
   "input" : "Is it like kind of like skydiving then?",
-  "response" : "Spooked Yea it's the same how did you know I went tho"
+  "response" : "Spooked \n Yea it's the same \n how did you know I went \n tho"
 }, {
   "input" : "^",
-  "response" : "lol fair enough was confused officially going to munihac"
+  "response" : "lol \n fair enough \n was confused \n officially going to munihac"
 }, {
-  "input" : "Actually Iâm telepathic ð",
-  "response" : "I knew it goddamn garlic and onions"
+  "input" : "Actually Iâm telepathic \n ð",
+  "response" : "I knew it \n goddamn garlic and onions"
 }, {
-  "input" : "ð https://en.wikipedia.org/wiki/Dimensional_metrology",
-  "response" : "cool word for a dull thing? or is there more to it"
+  "input" : "ð \n https://en.wikipedia.org/wiki/Dimensional_metrology",
+  "response" : "cool word for a dull thing? \n or is there more to it"
 }, {
-  "input" : "Yeah I guess Although it is fun to think that long ago, rulers and watches and calipers and sundials werenât a thing",
-  "response" : "Yeah it is The etymology of standards is interesting too"
+  "input" : "Yeah I guess \n Although it is fun to think that long ago, rulers and watches and calipers and sundials werenât a thing",
+  "response" : "Yeah it is \n The etymology of standards is interesting too"
 }, {
   "input" : "Whatâs the cute little name for that?",
-  "response" : "Not sure there is one Indeed I doubt there is But we can make one Etemometrology new map mennn"
+  "response" : "Not sure there is one \n Indeed I doubt there is \n But we can make one \n Etemometrology \n new map mennn"
 }, {
   "input" : "Itâs great - as always",
-  "response" : "indeed indeed indeed indeed Hey what's happening with your exams Also tomorrow ma conference starts 3 days and I'm getting paid for it"
+  "response" : "indeed \n indeed \n indeed \n indeed \n Hey what's happening with your exams \n Also tomorrow ma conference starts \n 3 days and I'm getting paid for it"
 }, {
-  "input" : "Had em yesterday, went alright Iâll pass Wait how? ð Are there pdfâs or slides of the talks?",
-  "response" : "Ah well done at last Flight? To? Munich? For? Haskell? It's being hosted by my company I'll see It's also a Hackathon Idrk Need to install Haskell first"
+  "input" : "Had em yesterday, went alright \n Iâll pass \n Wait how? ð \n Are there pdfâs or slides of the talks?",
+  "response" : "Ah well done at last \n Flight? To? Munich? For? Haskell? \n It's being hosted by my company \n I'll see \n It's also a Hackathon Idrk \n Need to install Haskell first"
 }, {
   "input" : "Remember the term âAlgebraic datatypeâ?",
   "response" : "Nope"
 }, {
-  "input" : "Î»\\= ÎÏÎ³ Î¹t!!! Whatâs the red one about?",
-  "response" : "soupramen its from a ramen shop Worst thing about using intellij and learning shortcuts is trying to use ctrl w in Firefox to select text Which closes the tab if you dont know"
+  "input" : "Î»\\= \n ÎÏÎ³ Î¹t!!! \n Whatâs the red one about?",
+  "response" : "soupramen \n its from a ramen shop \n Worst thing about using intellij and learning shortcuts is trying to use ctrl w in Firefox to select text \n Which closes the tab if you dont know"
 }, {
-  "input" : "Iâm used to doing ctrl-z - but on French keyboards the âzâ is where the âwâ is on American keyboards ð¢ Do you know about The Oxford Foundry? I donât but they seem to do some interesting stuffs",
-  "response" : "Ah so you know the pain I know it exists"
+  "input" : "Iâm used to doing ctrl-z - but on French keyboards the âzâ is where the âwâ is on American keyboards ð¢ \n Do you know about The Oxford Foundry? \n I donât but they seem to do some interesting stuffs",
+  "response" : "Ah so you know the pain \n I know it exists"
 }, {
   "input" : "Indeedddd",
   "response" : "But tell me more"
 }, {
-  "input" : "Alt Tab lists app's you've opened in the order of which ones you've used the most recently. On chrome when you ctrl tab, it goes simply to the /next/ tab to the right. On firefox, ctrl tabbing works like alt tabbing and it kills me inside (how's that for more? jk https://www.oxfordfoundry.ox.ac.uk/what-oxford-foundry",
-  "response" : "I know that Although the default behaviour is identical to chrome"
+  "input" : "Alt Tab lists app's you've opened in the order of which ones you've used the most recently. On chrome when you ctrl tab, it goes simply to the /next/ tab to the right. On firefox, ctrl tabbing works like alt tabbing and it kills me inside \n (how's that for more? jk \n https://www.oxfordfoundry.ox.ac.uk/what-oxford-foundry",
+  "response" : "I know that \n Although the default behaviour is identical to chrome"
 }, {
   "input" : "They have some interesting talks / tutors / job opportunities probably",
   "response" : "It's acc a setting"
 }, {
-  "input" : "that can't be right OMG really I looked but couldn't find it - are you telling me all that struggle was for nothing?!?",
-  "response" : "Yeah Changed it to be like alt tab because alt tab behaviour is much nicer"
+  "input" : "that can't be right \n OMG really I looked but couldn't find it - are you telling me all that struggle was for nothing?!?",
+  "response" : "Yeah \n Changed it to be like alt tab because alt tab behaviour is much nicer"
 }, {
   "input" : "nahh",
   "response" : "Might not have time for oxfo next term I'm gonna be taking french at the slc"
 }, {
-  "input" : "Thing is i'll just used a new window instead of a new tab to get the alt tab behavior virtually and then I can use ctrl 1 / 2 / 3 to get to the reference / key pages I always want to have handy",
+  "input" : "Thing is i'll just used a new window instead of a new tab to get the alt tab behavior virtually \n and then I can use ctrl 1 / 2 / 3 to get to the reference / key pages I always want to have handy",
   "response" : "Eh massively depends on your use case"
 }, {
   "input" : "Eh",
-  "response" : "I tend to have like 30 tabs open So going through each one takes too long"
+  "response" : "I tend to have like 30 tabs open \n So going through each one takes too long"
 }, {
   "input" : "My chromebook's ram won't allow that rip",
-  "response" : "Ah rippp Tbf my computer is pretty shitty too"
+  "response" : "Ah rippp \n Tbf my computer is pretty shitty too"
 }, {
   "input" : "You've seen mine lol",
-  "response" : "For some reason it shuts down when the battery warning (i.e. 20%) is triggered Which is interesting"
+  "response" : "For some reason it shuts down when the battery warning (i.e. 20%) is triggered \n Which is interesting"
 }, {
-  "input" : "\"interesting\" ð a windows thing for sure wipe it, install ubuntu, and you'll be a happy man",
-  "response" : "That's my plan I work in Linux anyway"
+  "input" : "\"interesting\" ð \n a windows thing for sure \n wipe it, install ubuntu, and you'll be a happy man",
+  "response" : "That's my plan \n I work in Linux anyway"
 }, {
   "input" : "virtually for now?",
   "response" : "But i don't have the energy rn"
@@ -1029,16 +1029,16 @@
   "response" : "No my work laptop is ubuntu"
 }, {
   "input" : "aha",
-  "response" : "Ubuntu is nice I do love me some sudo apt get"
+  "response" : "Ubuntu is nice \n I do love me some sudo apt get"
 }, {
   "input" : "I say take the half-assed approach of dual booting windows and Ubuntu, and never getting around to fully committing to either, as I did for years",
-  "response" : "Nahhh As soon as I find my usb and gain some energy I'll fully switch Oh other bad thing is video games tend to be shit on linux"
+  "response" : "Nahhh \n As soon as I find my usb and gain some energy I'll fully switch \n Oh other bad thing is video games tend to be shit on linux"
 }, {
-  "input" : "I've found myself in a shortage of high capacity USB sticks indeed, it's sad and driver support to play those games (like GPU's) is also pretty shoddy",
+  "input" : "I've found myself in a shortage of high capacity USB sticks \n indeed, it's sad \n and driver support to play those games (like GPU's) is also pretty shoddy",
   "response" : "I can get some usbs from work"
 }, {
-  "input" : "although it has gotten considerably better over the yeras really? like freebies or work-place theft sort of thing?",
-  "response" : "Ehhhh We will see"
+  "input" : "although it has gotten considerably better over the yeras \n really? like freebies or work-place theft sort of thing?",
+  "response" : "Ehhhh \n We will see"
 }, {
   "input" : "what sort of capacity?",
   "response" : "They won't see"
@@ -1046,77 +1046,77 @@
   "input" : "XDDDD",
   "response" : "I have a 32 GB one rn"
 }, {
-  "input" : "noiceeee USB3?",
+  "input" : "noiceeee \n USB3?",
   "response" : "Yup"
 }, {
   "input" : "I installed windows off a USB2 once - it was pretty hellish",
   "response" : "Yeah also it was on a usb2"
 }, {
   "input" : "Apparently the JCR runs some cooking classes? Have you heard of them",
-  "response" : "Yeah I know they exist But we can do our own"
+  "response" : "Yeah \n I know they exist \n But we can do our own"
 }, {
-  "input" : "ððð chop that tofu up like nothing",
-  "response" : "You know it I figured out how to cook aubergine properly Just you wait"
+  "input" : "ððð \n chop that tofu up like nothing",
+  "response" : "You know it \n I figured out how to cook aubergine properly \n Just you wait"
 }, {
   "input" : "is the key olive oil? I really want the key to everything to be olive oil.",
-  "response" : "No it's getting Chinese aubergines instead of inferior western ones If you think our aubergines are phallic Just you wait"
+  "response" : "No it's getting Chinese aubergines instead of inferior western ones \n If you think our aubergines are phallic \n Just you wait"
 }, {
   "input" : "You've got me on the edge of my seat!",
-  "response" : "Other things I've learnt in Germany include don't put a plastic chopping board on a stove And honey melon is different from honey pomelo I've got a child? !"
+  "response" : "Other things I've learnt in Germany include don't put a plastic chopping board on a stove \n And honey melon is different from honey pomelo \n I've got a child? \n !"
 }, {
-  "input" : "Oooohh! Did it come by mail?",
-  "response" : "no messenger funnily enough he lives 15 min walk from me"
+  "input" : "Oooohh! \n Did it come by mail?",
+  "response" : "no \n messenger \n funnily enough he lives 15 min walk from me"
 }, {
-  "input" : "Meet up at a pub Whatâs he study?",
-  "response" : "its a shout maths and compsci"
+  "input" : "Meet up at a pub \n Whatâs he study?",
+  "response" : "its a shout \n maths and compsci"
 }, {
   "input" : "You got only one?",
-  "response" : "that i know of he reached out to me where are the rest my lord"
+  "response" : "that i know of \n he reached out to me \n where are the rest my lord"
 }, {
   "input" : "I passed!",
-  "response" : "Yay Well done"
+  "response" : "Yay \n Well done"
 }, {
   "input" : "Thanks!",
   "response" : "How did you celebrate"
 }, {
-  "input" : "Iâm about to go for a bike ride Iâm home alone atm rip",
-  "response" : "That is sad A Paris? Also do you play video games"
+  "input" : "Iâm about to go for a bike ride \n Iâm home alone atm rip",
+  "response" : "That is sad \n A Paris? \n Also do you play video games"
 }, {
-  "input" : "Yess U?",
+  "input" : "Yess \n U?",
   "response" : "which ones"
 }, {
-  "input" : "Favs are: FTL, KSP, Factorio, Minecraft, Trackmania, Human Resource Machine Portal 2 omg",
-  "response" : "of those i only play ksp though the others do interest me do you have civ"
+  "input" : "Favs are: FTL, KSP, Factorio, Minecraft, Trackmania, Human Resource Machine \n Portal 2 omg",
+  "response" : "of those i only play ksp \n though the others do interest me \n do you have civ"
 }, {
   "input" : "KSP 2.0 âs in the works! ððð",
-  "response" : "ik im so excited multiplayer <3"
+  "response" : "ik \n im so excited \n multiplayer <3"
 }, {
   "input" : "Nuu",
-  "response" : "ah shame Wow I basically have to do linear algebra and continuous maths next year In one paper"
+  "response" : "ah shame \n Wow I basically have to do linear algebra and continuous maths next year \n In one paper"
 }, {
-  "input" : "Oh shit Good luck then!",
-  "response" : "Rip me Oh well"
+  "input" : "Oh shit \n Good luck then!",
+  "response" : "Rip me \n Oh well"
 }, {
-  "input" : "Megarip We had probability with CM Iâd say probability ~= Linear algebra In terms of difficulty But LA is more interesting conceptually Agree?",
-  "response" : "I mean I haven't done la or cm so idrk La sounds fun"
+  "input" : "Megarip \n We had probability with CM \n Iâd say probability ~= Linear algebra \n In terms of difficulty \n But LA is more interesting conceptually \n Agree?",
+  "response" : "I mean I haven't done la or cm so idrk \n La sounds fun"
 }, {
   "input" : "âTis",
-  "response" : "I'll suck at it tho Oh well"
+  "response" : "I'll suck at it tho \n Oh well"
 }, {
   "input" : "For classes, you guys read âthe essential Turingâ right?",
-  "response" : "Ya whyacc no yhe Acc no the annotated turing"
+  "response" : "Ya whyacc no yhe \n Acc no the annotated turing"
 }, {
-  "input" : "Ah xD Iâm reading it now I saw a talk which mentioned it was a good book and bought it Iâm on the chapter about the universal machine",
+  "input" : "Ah xD Iâm reading it now \n I saw a talk which mentioned it was a good book and bought it \n Iâm on the chapter about the universal machine",
   "response" : "Its *interesting* isn't it"
 }, {
-  "input" : "Yeaaaa Iâm quite enjoying it so far I now viscerally hate non-computable numbers Reals === Computables",
-  "response" : "ikr ill reread and we can have a book club its the only textbook i acc bought"
+  "input" : "Yeaaaa \n Iâm quite enjoying it so far \n I now viscerally hate non-computable numbers \n Reals === Computables",
+  "response" : "ikr \n ill reread and we can have a book club \n its the only textbook i acc bought"
 }, {
   "input" : "Did you then annotate your own annotated Turing?",
-  "response" : "I've annotated parts which linux distro shall i get"
+  "response" : "I've annotated parts \n which linux distro shall i get"
 }, {
   "input" : "Iâve been a fan of Ubuntu, but honestly thatâs maybe a bit vanilla",
-  "response" : "yah I got ubuntu just cos im familiar"
+  "response" : "yah I got ubuntu \n just cos im familiar"
 }, {
   "input" : "Fairz",
   "response" : "i love the new os feel"
@@ -1125,24 +1125,24 @@
   "response" : "aside from none of my shortcuts working"
 }, {
   "input" : "What version u got?",
-  "response" : "18.04 so far nothing is broken which is surprising for me aside from the fingerprint scanner but yk what do you expect acer to support linux drivers pff"
+  "response" : "18.04 \n so far nothing is broken which is surprising for me \n aside from the fingerprint scanner \n but yk \n what do you expect \n acer to support linux drivers \n pff"
 }, {
-  "input" : "You could probably get it working tho Third party drivers?",
-  "response" : "the only driver is half completed according to the internet shall we try to make one sounds like fun for reference https://github.com/indev29/egis0570"
+  "input" : "You could probably get it working tho \n Third party drivers?",
+  "response" : "the only driver is half completed according to the internet \n shall we try to make one \n sounds like fun \n for reference https://github.com/indev29/egis0570"
 }, {
   "input" : "Alright when we cooking",
-  "response" : "coooking? have i forgotten sth im always down for cooking tho"
+  "response" : "coooking? \n have i forgotten sth \n im always down for cooking tho"
 }, {
   "input" : "Sorry for not being more explicit - yes just casual cooking like not specifically today but like anytime",
   "response" : "have you had lunch"
 }, {
-  "input" : "I have Wanna do dinner?",
-  "response" : "having a family dinner but we could do something tomorrow since hall is closed"
+  "input" : "I have \n Wanna do dinner?",
+  "response" : "having a family dinner \n but we could do something tomorrow since hall is closed"
 }, {
   "input" : "Ah yes shout!",
   "response" : "aite we can do a shop"
 }, {
-  "input" : "Righty sounds grand What are we thinking",
+  "input" : "Righty sounds grand \n What are we thinking",
   "response" : "lets go shopping together and plan it there <3"
 }, {
   "input" : "Great great",
@@ -1151,14 +1151,14 @@
   "input" : "Pipe 401",
   "response" : "oooh"
 }, {
-  "input" : "1st floor Ye?",
-  "response" : "452 secondo flooro if you ever want tea my collection is substantial and/or nice books"
+  "input" : "1st floor \n Ye?",
+  "response" : "452 \n secondo flooro \n if you ever want tea \n my collection is substantial \n and/or nice books"
 }, {
   "input" : "Grand",
-  "response" : "je suis tres forgot you were francais apologies for the butchering"
+  "response" : "je suis tres \n forgot you were francais \n apologies for the butchering"
 }, {
-  "input" : "ðð Nice one",
-  "response" : "ouais prononced like a duck"
+  "input" : "ðð \n Nice one",
+  "response" : "ouais \n prononced like a duck"
 }, {
   "input" : "Even got the slang impressive",
   "response" : "right"
@@ -1167,7 +1167,7 @@
   "response" : "what be ye doing"
 }, {
   "input" : "Linear algebra & groups revision",
-  "response" : "ooh baby thats some fun"
+  "response" : "ooh baby \n thats some fun"
 }, {
   "input" : "Its going to be VERY DIFFICULT to drag myself out of the library, im so fascinated by what Iâm doing atm",
   "response" : "lmao"
@@ -1175,14 +1175,14 @@
   "input" : "As you can tell by my being on messenger",
   "response" : "real trick is to just watch tv in your room i mean what"
 }, {
-  "input" : "Nice Not like I was watching YT in my room beforehand oh well Can relate",
-  "response" : "its fine im also drinking tea which is basically work"
+  "input" : "Nice \n Not like I was watching YT in my room beforehand oh well \n Can relate",
+  "response" : "its fine \n im also drinking tea \n which is basically work"
 }, {
-  "input" : "That makes up for it Right there",
-  "response" : "and I just connected to the wifi on my phone even bigger"
+  "input" : "That makes up for it \n Right there",
+  "response" : "and I just connected to the wifi on my phone \n even bigger"
 }, {
   "input" : "ðµ",
-  "response" : "ik ik hackerman"
+  "response" : "ik ik \n hackerman"
 }, {
   "input" : "Iâm slackerman",
   "response" : "I'm ackerman"
@@ -1197,42 +1197,42 @@
   "response" : "is that today or tomorrow am confuse"
 }, {
   "input" : "Today",
-  "response" : "ah coolio shall I eat dinner before Up for the shop?"
+  "response" : "ah coolio \n shall I eat dinner before \n Up for the shop?"
 }, {
   "input" : "Aiii",
   "response" : "When shall we gp"
 }, {
-  "input" : "You managed to wake up by 10 ð If you wanna do now",
-  "response" : "Gimme 10 mins Meet bottom of pipe 10 is literal when do we sign up for tutes for courses i mean am confuse you doing varsity this year"
+  "input" : "You managed to wake up by 10 ð \n If you wanna do now",
+  "response" : "Gimme 10 mins \n Meet bottom of pipe \n 10 is literal \n when do we sign up for tutes \n for courses i mean \n am confuse \n you doing varsity this year"
 }, {
-  "input" : "Might do indeed U",
+  "input" : "Might do indeed \n U",
   "response" : "ya"
 }, {
   "input" : "Noice",
-  "response" : "sick one Meetings with Varun are today right Also found the age thing two secs after you left"
+  "response" : "sick one \n Meetings with Varun are today right \n Also found the age thing two secs after you left"
 }, {
   "input" : "I noted tomorrow? Iâm actually not sure",
   "response" : "Oh rip"
 }, {
   "input" : "Lol",
-  "response" : "I mean I'm at Cs and he isn't here Dear god I got off at floor 0 what a scary place"
+  "response" : "I mean I'm at Cs and he isn't here \n Dear god I got off at floor 0 what a scary place"
 }, {
-  "input" : "ð Been there too - not fun Elevator? I made the mistake with the stairs",
-  "response" : "Yeah Yeah idk how to find it from downstairs It's a maze Can we just appreciate I'm in an essay crisis on my first day whats our menu for tomorrow's meal and is it on"
+  "input" : "ð \n Been there too - not fun \n Elevator? \n I made the mistake with the stairs",
+  "response" : "Yeah \n Yeah idk how to find it from downstairs \n It's a maze \n Can we just appreciate I'm in an essay crisis on my first day \n whats our menu for tomorrow's meal and is it on"
 }, {
-  "input" : "Ofc Lemme thinker",
+  "input" : "Ofc \n Lemme thinker",
   "response" : "cool I cannae do anything on that front tonight"
 }, {
   "input" : "?",
   "response" : "I'm doing essay crisis"
 }, {
   "input" : "Ah - best of luck",
-  "response" : "danke If you come to my room ill give you a great cooking book as a help to your thinking also do you have any snacks perchance"
+  "response" : "danke \n If you come to my room ill give you a great cooking book \n as a help to your thinking \n also do you have any snacks perchance"
 }, {
   "input" : "Iâm afraid not",
-  "response" : "damn are we lunching today. I wont be able to help mch before 2 we can always do tomorrow"
+  "response" : "damn \n are we lunching today. I wont be able to help mch before 2 \n we can always do tomorrow"
 }, {
-  "input" : "Tomorrow works better for me Howâd the essay go?",
+  "input" : "Tomorrow works better for me \n Howâd the essay go?",
   "response" : "Un petit peu d'un disastre"
 }, {
   "input" : "Have you made it to lectures?",
@@ -1241,44 +1241,44 @@
   "input" : "Sorry to ditch",
   "response" : "Where dya go"
 }, {
-  "input" : "I have lectures at 3, it would have given an hour Iâm off to Travis to buy things",
+  "input" : "I have lectures at 3, it would have given an hour \n Iâm off to Travis to buy things",
   "response" : "(2 hours)"
 }, {
   "input" : "Tescoâs",
-  "response" : "What a tr Ahh"
+  "response" : "What a tr \n Ahh"
 }, {
   "input" : "I thought you couldnât help much before 2",
   "response" : "Come round 2 ISH and we can scour the recipe book"
 }, {
-  "input" : "Alright Will do Is now 2ish enough?",
+  "input" : "Alright \n Will do \n Is now 2ish enough?",
   "response" : "yup"
 }, {
-  "input" : "Alright sorry Iâm sorting out things I should be 10 On my way! Iâm running late Food took longer to make than I thought",
+  "input" : "Alright sorry Iâm sorting out things I should be 10 \n On my way! \n Iâm running late \n Food took longer to make than I thought",
   "response" : "Meet at plodge in a few mins?"
 }, {
-  "input" : "Or you can come to first floor pipe kitchen agh the car end Far*",
+  "input" : "Or you can come to first floor pipe kitchen agh the car end \n Far*",
   "response" : "As in below my room"
 }, {
   "input" : "Opposite end of pipe",
-  "response" : "hold up its your birthday :o happy birthday!! shall we make a birthday cake too"
+  "response" : "hold up its your birthday :o \n happy birthday!! \n shall we make a birthday cake too"
 }, {
-  "input" : "Oo Shout Thanks!",
+  "input" : "Oo \n Shout \n Thanks!",
   "response" : "np you going to the talk at 5"
 }, {
   "input" : "Maybe",
-  "response" : "aite just want that free wine Everything I bought is on me bed Where you ay"
+  "response" : "aite \n just want that free wine \n Everything I bought is on me bed \n Where you ay"
 }, {
   "input" : "Ayyyy",
-  "response" : "Lmaoo Have you saved any cake for meee"
+  "response" : "Lmaoo \n Have you saved any cake for meee"
 }, {
   "input" : "Yeeea",
-  "response" : "Shall I pop by now :/ also we leaving plodge at 1045 if you arent overly drunk what happened to le cake"
+  "response" : "Shall I pop by now \n :/ \n also we leaving plodge at 1045 if you arent overly drunk \n what happened to le cake"
 }, {
   "input" : "Thereâs some left for Humph Isabel and you!",
   "response" : "wo"
 }, {
   "input" : "Organisation got difficult",
-  "response" : "I can imagine youre at crewdate presumablement?"
+  "response" : "I can imagine \n youre at crewdate presumablement?"
 }, {
   "input" : "On my way!",
   "response" : "have fun"
@@ -1290,60 +1290,60 @@
   "response" : "we going to ml today?"
 }, {
   "input" : "I ditched soz",
-  "response" : "same soz You going ml today?"
+  "response" : "same soz \n You going ml today?"
 }, {
   "input" : "How was ice skating?",
   "response" : "gucci"
 }, {
   "input" : "Could I use your laundry rack?",
-  "response" : "you know you can price is a small amont of food When you coming"
+  "response" : "you know you can \n price is a small amont of food \n When you coming"
 }, {
   "input" : "Now",
   "response" : "you better be"
 }, {
   "input" : "Next PPL lecture is tomorrow?",
-  "response" : "Yea See ya there and indeed before"
+  "response" : "Yea \n See ya there and indeed before"
 }, {
-  "input" : "? And indeed => or maybe ?",
-  "response" : "Probably Return the drying rack when you're done w it Do we have to choose the accomodation option tomorrow too"
+  "input" : "? \n And indeed => or maybe ?",
+  "response" : "Probably \n Return the drying rack when you're done w it \n Do we have to choose the accomodation option tomorrow too"
 }, {
-  "input" : "Yes Sadly The bottom tier is quite trash so maybe itâs worth going for the second tier Did not worth going for the top tier though Defo*",
-  "response" : "okay thanks Can you make booking groups before hand"
+  "input" : "Yes \n Sadly \n The bottom tier is quite trash so maybe itâs worth going for the second tier \n Did not worth going for the top tier though \n Defo*",
+  "response" : "okay thanks \n Can you make booking groups before hand"
 }, {
-  "input" : "Idk Best luck is to ask Duncan Heggie, heâs a NUCO rep so heâs basically sold his soul to them lol",
+  "input" : "Idk \n Best luck is to ask Duncan Heggie, heâs a NUCO rep so heâs basically sold his soul to them lol",
   "response" : "Nah I don't know him and I'm scared of soulless people"
 }, {
   "input" : "U on the queue",
-  "response" : "ya 1249 app there is sth about insurance can I just use ehi ehic"
+  "response" : "ya 1249 \n app there is sth about insurance \n can I just use ehi \n ehic"
 }, {
   "input" : "Duncan",
-  "response" : "idek him aren't you in a room of people who have done it before"
+  "response" : "idek him \n aren't you in a room of people who have done it before"
 }, {
   "input" : "Depends on your own insurance",
   "response" : "gah"
 }, {
   "input" : "Big gah",
-  "response" : "Come to lecture Boi"
+  "response" : "Come to lecture \n Boi"
 }, {
   "input" : "Ltb?",
-  "response" : "A Do you wanna help me write a driver for my fingerprint scanner so I can get it working with Ubuntu Me at 2 am today Is more what I had in mind how was final night last year"
+  "response" : "A \n Do you wanna help me write a driver for my fingerprint scanner so I can get it working with Ubuntu \n Me at 2 am today \n Is more what I had in mind \n how was final night last year"
 }, {
-  "input" : "I didnât go actually But generally Iâd say itâs really nice If you like really loud music",
-  "response" : "hrmm I mean"
+  "input" : "I didnât go actually \n But generally Iâd say itâs really nice \n If you like really loud music",
+  "response" : "hrmm \n I mean"
 }, {
   "input" : "Itâs basically a concert",
-  "response" : "anyone I would know you coming for my drying rack?"
+  "response" : "anyone I would know \n you coming for my drying rack?"
 }, {
   "input" : "Got a Tute now",
-  "response" : "fair gluck"
+  "response" : "fair \n gluck"
 }, {
   "input" : "Thx",
   "response" : "wo bis du"
 }, {
-  "input" : "Iâm coming I need to print stuff at the Library",
-  "response" : "du best be ran out of german pretty qucik bonjour va tu utiliser votre velo ce soir"
+  "input" : "Iâm coming \n I need to print stuff at the Library",
+  "response" : "du best be \n ran out of german pretty qucik \n bonjour \n va tu utiliser votre velo ce soir"
 }, {
-  "input" : "I donât reccon Feel free Itâs a bit tall",
+  "input" : "I donât reccon \n Feel free \n Itâs a bit tall",
   "response" : "I am a bit tall"
 }, {
   "input" : "But thatâs not really an issue is it",
@@ -1352,14 +1352,14 @@
   "input" : "Np",
   "response" : "Lmao took me 8 mins to lock it"
 }, {
-  "input" : "ð ð­ Thanks for actually bothering, again",
+  "input" : "ð \n ð­ \n Thanks for actually bothering, again",
   "response" : "I'm not sure how I could have not"
 }, {
-  "input" : "Would you mind handing me my keys when you get back? I might cycle to PPL tomorrow Oh also laundry rack again?",
-  "response" : "Rooms open And will do I'll be back in 20"
+  "input" : "Would you mind handing me my keys when you get back? I might cycle to PPL tomorrow \n Oh also laundry rack again?",
+  "response" : "Rooms open \n And will do \n I'll be back in 20"
 }, {
   "input" : "Iâm still lib",
-  "response" : "Heading to my room now EtA so I know when to shower"
+  "response" : "Heading to my room now \n EtA so I know when to shower"
 }, {
   "input" : "I can be in your room in 5 is that alright",
   "response" : "Sure that or 15 or more"
@@ -1377,13 +1377,13 @@
   "response" : "It's like 3 pillars from the west side"
 }, {
   "input" : "So like still in the same rack area",
-  "response" : "Yeah pretty nearby Wya"
+  "response" : "Yeah pretty nearby \n Wya"
 }, {
-  "input" : "Omw LTA?",
+  "input" : "Omw \n LTA?",
   "response" : "Where ya at"
 }, {
   "input" : "You need 5 states no???",
-  "response" : "nah easy you just need one fail state"
+  "response" : "nah easy \n you just need one fail state"
 }, {
   "input" : "Ok jkjk",
   "response" : "you got it?"
@@ -1391,8 +1391,8 @@
   "input" : "...",
   "response" : "What do you mean jkjk"
 }, {
-  "input" : "Lemme grind at it for a while longer Autocorrect",
-  "response" : "Is all I'm saying Oh acc Accepting states in the wrong place shall I send the solution?"
+  "input" : "Lemme grind at it for a while longer \n Autocorrect",
+  "response" : "Is all I'm saying \n Oh acc \n Accepting states in the wrong place \n shall I send the solution?"
 }, {
   "input" : "NFAâs - why do you need a fail state lol",
   "response" : "yeah its acc the success state"
@@ -1403,8 +1403,8 @@
   "input" : "?",
   "response" : "What's e"
 }, {
-  "input" : "Epsilon transitions This is an NFA",
-  "response" : "I thought those were for empty strings Not everything An epsilon loop makesno sense"
+  "input" : "Epsilon transitions \n This is an NFA",
+  "response" : "I thought those were for empty strings \n Not everything \n An epsilon loop makesno sense"
 }, {
   "input" : "Yeah sorry Iâm dumbbbbb",
   "response" : "But otherwise ya"
@@ -1422,10 +1422,10 @@
   "response" : "Not imo"
 }, {
   "input" : "But it does start and end with the same symbol!!",
-  "response" : "Oh wait lmao yeah then Hm"
+  "response" : "Oh wait lmao yeah then \n Hm"
 }, {
-  "input" : "Yeah. 5 states? Ah wait no",
-  "response" : "Yeah That looks right"
+  "input" : "Yeah. \n 5 states? \n Ah wait no",
+  "response" : "Yeah \n That looks right"
 }, {
   "input" : "Dâyou do that then",
   "response" : "Nope don't think so"
@@ -1433,13 +1433,13 @@
   "input" : "âS fine",
   "response" : "Oh wellll"
 }, {
-  "input" : "Stefan might not even notice Who knows",
-  "response" : "I'll spot it first you wanna go to the jane street estimathon thingy"
+  "input" : "Stefan might not even notice \n Who knows",
+  "response" : "I'll spot it first \n you wanna go to the jane street estimathon thingy"
 }, {
-  "input" : "When is it? Tbh not my cup",
-  "response" : "Nov 5th why dont suppose you wanna help me with my popl problem sheet cos otherwise im not getting it handed in on time or not sleeping"
+  "input" : "When is it? \n Tbh not my cup",
+  "response" : "Nov 5th why \n dont suppose you wanna help me with my popl problem sheet \n cos otherwise im not getting it handed in on time \n or not sleeping"
 }, {
-  "input" : "Yeah sorry Metric spaces is still a long way from being done",
+  "input" : "Yeah sorry \n Metric spaces is still a long way from being done",
   "response" : "ah thats a rip"
 }, {
   "input" : "Itâs a big rip",
@@ -1452,31 +1452,31 @@
   "response" : "though it is fun drawing abstract syntax trees"
 }, {
   "input" : "What the drank?",
-  "response" : "until I see there are 7 more qs wine"
+  "response" : "until I see there are 7 more qs \n wine"
 }, {
-  "input" : "Iâm quite not fond at all of wine so Iâd say no But thatâs just me",
+  "input" : "Iâm quite not fond at all of wine so Iâd say no \n But thatâs just me",
   "response" : "ah fair"
 }, {
   "input" : "I wish you all the best",
-  "response" : "what do the words explain how the reference to x from the body of g is implemented in our interpreter mean"
+  "response" : "what do the words \n explain how the reference to x from the body of g is implemented in our interpreter \n mean"
 }, {
-  "input" : "Wow popl sheets are Tuff Did it go well?",
+  "input" : "Wow popl sheets are Tuff \n Did it go well?",
   "response" : "Nope"
 }, {
   "input" : "Yikes",
-  "response" : "Attempt 2 here we go Skipping linear algebra but let's be real not sure I can show my face there"
+  "response" : "Attempt 2 here we go \n Skipping linear algebra but let's be real not sure I can show my face there"
 }, {
   "input" : "Why so?",
-  "response" : "The whole falling asleep debacle And I'm not on enough sleep to overturn that"
+  "response" : "The whole falling asleep debacle \n And I'm not on enough sleep to overturn that"
 }, {
   "input" : "Big yikes",
   "response" : "Indeedy"
 }, {
   "input" : "Popl?",
-  "response" : "Just leaving now wya That's no answer"
+  "response" : "Just leaving now wya \n That's no answer"
 }, {
-  "input" : "LTA warming your seat",
-  "response" : "Aw Definitional interpreter for nfas when Oh ya can ich bike tonight"
+  "input" : "LTA \n warming your seat",
+  "response" : "Aw \n Definitional interpreter for nfas when \n Oh ya can ich bike tonight"
 }, {
   "input" : "I recon",
   "response" : "When can I fetch les ecles"
@@ -1484,44 +1484,44 @@
   "input" : "When are you leaving",
   "response" : "11:10"
 }, {
-  "input" : "Im a go on a bike ride, Iâll swing by when I come back? 30â?",
-  "response" : "Ya for sure Wait where is it Not sure I've taken the right bike But the keys work I parked whichever bike I took"
+  "input" : "Im a go on a bike ride, Iâll swing by when I come back? \n 30â?",
+  "response" : "Ya for sure \n Wait where is it \n Not sure I've taken the right bike \n But the keys work \n I parked whichever bike I took"
 }, {
   "input" : "Thatâs concerning",
-  "response" : "Come for keys whenever Am in town for a bit but lmk"
+  "response" : "Come for keys whenever \n Am in town for a bit but lmk"
 }, {
   "input" : "Thanks! Will do",
-  "response" : "Am back In kitchen Can ich borrow again"
+  "response" : "Am back \n In kitchen \n Can ich borrow again"
 }, {
-  "input" : "Tonight? Soz for the late answer Lmk if u still need it or no",
-  "response" : "Yah thanks twas too late Wanna help me get a new bike sat?"
+  "input" : "Tonight? \n Soz for the late answer \n Lmk if u still need it or no",
+  "response" : "Yah thanks twas too late \n Wanna help me get a new bike sat?"
 }, {
-  "input" : "Ooh getting a bike is a shout Weâve you been looking?",
+  "input" : "Ooh getting a bike is a shout \n Weâve you been looking?",
   "response" : "Summertown cycles is app. Good?"
 }, {
-  "input" : "Sounds good enough Tbf I donât really know bc I brought my own bike to uni",
-  "response" : "Popl? Ya it's impressive"
+  "input" : "Sounds good enough \n Tbf I donât really know bc I brought my own bike to uni",
+  "response" : "Popl? \n Ya it's impressive"
 }, {
   "input" : "Ofc â¤ï¸",
   "response" : "You looking forward to our joyrides"
 }, {
-  "input" : "ð Make sure u get one with a rack on the back!",
-  "response" : "Ah good shout Do you want some pumpkin pie"
+  "input" : "ð \n Make sure u get one with a rack on the back!",
+  "response" : "Ah good shout \n Do you want some pumpkin pie"
 }, {
   "input" : "Gloucester green Market today then?",
-  "response" : "Yaya Shit my charger for my laptop has broken Do you have any tools to fix it"
+  "response" : "Yaya \n Shit my charger for my laptop has broken \n Do you have any tools to fix it"
 }, {
   "input" : "I have some bike fixing tools",
   "response" : "Rip"
 }, {
-  "input" : "Theyâre likely too fat to deal with gentle electronics but your welcome to kidnap them for a while Youâre - itâs late okay",
-  "response" : "Nah I'll take it to get fixed With a hammer That'll be more gentle Wanna come"
+  "input" : "Theyâre likely too fat to deal with gentle electronics but your welcome to kidnap them for a while \n Youâre - itâs late okay",
+  "response" : "Nah I'll take it to get fixed \n With a hammer \n That'll be more gentle \n Wanna come"
 }, {
   "input" : "On my way!",
-  "response" : "After the ingredients shopping tomorrow Don't be on your way rn That would be silly I don't think they are open yet Wya"
+  "response" : "After the ingredients shopping tomorrow \n Don't be on your way rn \n That would be silly \n I don't think they are open yet \n Wya"
 }, {
-  "input" : "I still need to hand in MC at CS self Dept Did you get a bike then?",
-  "response" : "nah due to the computer issues im trying out the cycle scheme but can you be ready to respond 930ish in case that doesnt work if thats possible?"
+  "input" : "I still need to hand in MC at CS self \n Dept \n Did you get a bike then?",
+  "response" : "nah due to the computer issues \n im trying out the cycle scheme \n but can you be ready to respond 930ish in case that doesnt work if thats possible?"
 }, {
   "input" : "9:30 am tomorrow?",
   "response" : "NAH PM"
@@ -1532,14 +1532,14 @@
   "input" : "Can I nic the rack again?",
   "response" : "Sure"
 }, {
-  "input" : "Can I steal your laundry rack now? U in your room?",
-  "response" : "Nah but it's unlocked Im at a hockey gsme Feel free to come watch"
+  "input" : "Can I steal your laundry rack now? \n U in your room?",
+  "response" : "Nah but it's unlocked \n Im at a hockey gsme \n Feel free to come watch"
 }, {
   "input" : "Sorry boss Metric spaces awaits me",
-  "response" : "Sth you can do at a hockey match Btw nic is spelt nick"
+  "response" : "Sth you can do at a hockey match \n Btw nic is spelt nick"
 }, {
-  "input" : "Maximilien sent a link. Nu itâs not",
-  "response" : "I didn't consent to you network interface controlling my laundry rack Grrr Smh"
+  "input" : "Maximilien sent a link. \n Nu itâs not",
+  "response" : "I didn't consent to you network interface controlling my laundry rack \n Grrr \n Smh"
 }, {
   "input" : "Weâre ya @?",
   "response" : "cam"
@@ -1547,32 +1547,32 @@
   "input" : "Ah yes",
   "response" : "sad!"
 }, {
-  "input" : "When u coming back? Whenâs the matches? (When do I say âgood luck!â Or âgreat job!â Or âsafe travels!â ?)",
-  "response" : "I'm on my way back now we lost somewhat predictably I got stuck in cambridge and now im doing popl on a cross country bus new fav linux thing is that to close processes you just type killall [name of process]"
+  "input" : "When u coming back? \n Whenâs the matches? \n (When do I say âgood luck!â Or âgreat job!â Or âsafe travels!â ?)",
+  "response" : "I'm on my way back now \n we lost \n somewhat predictably \n I got stuck in cambridge \n and now im doing popl on a cross country bus \n new fav linux thing is that to close processes you just type killall [name of process]"
 }, {
-  "input" : "Ohh knew about âkill PIDâ but not killall! ð® On what occasion dâyou have to kill a thing? That generally sounds unpleasant",
-  "response" : "Idk the diff between killall and kill In any case libreoffice crashed"
+  "input" : "Ohh knew about âkill PIDâ but not killall! ð® \n On what occasion dâyou have to kill a thing? That generally sounds unpleasant",
+  "response" : "Idk the diff between killall and kill \n In any case libreoffice crashed"
 }, {
-  "input" : "Kill you need a number Sad",
+  "input" : "Kill you need a number \n Sad",
   "response" : "Yeah was v annoying it greyed out my screen"
 }, {
   "input" : "Number which you can get by running âtopâ",
-  "response" : "Ahh Interesting You doing a psheet rn?"
+  "response" : "Ahh \n Interesting \n You doing a psheet rn?"
 }, {
-  "input" : "Iâm reading a book Because Iâm tired of procrastinating on YouTube",
+  "input" : "Iâm reading a book \n Because Iâm tired of procrastinating on YouTube",
   "response" : "I love that"
 }, {
-  "input" : "But yes, I really should be pb sheeting at the moment Iâm so boned",
-  "response" : "See I want to ask you if you wanna have a philosophical discussion on causation But I should really just write this essay Maybe we can discuss tomorrow after we've both *done* our work"
+  "input" : "But yes, I really should be pb sheeting at the moment \n Iâm so boned",
+  "response" : "See I want to ask you if you wanna have a philosophical discussion on causation \n But I should really just write this essay \n Maybe we can discuss tomorrow after we've both *done* our work"
 }, {
   "input" : "If thereâs a way in which I can have this discussion without getting out of my bed Iâm very down",
-  "response" : "My problem also What would be your instinctive definition of causation"
+  "response" : "My problem also \n What would be your instinctive definition of causation"
 }, {
-  "input" : "I wouldnât kneel down to anything less than quantum physics If your taking about causation involving more than two elementary particles on an infinitesimal timescale, youâre doing it wrong",
-  "response" : "I wish I could just write about two elementary particles Stupid human scale"
+  "input" : "I wouldnât kneel down to anything less than quantum physics \n If your taking about causation involving more than two elementary particles on an infinitesimal timescale, youâre doing it wrong",
+  "response" : "I wish I could just write about two elementary particles \n Stupid human scale"
 }, {
   "input" : "I want to say things but I canât be asked to type them",
-  "response" : "I have to define what it is for an action to cause an event How vague"
+  "response" : "I have to define what it is for an action to cause an event \n How vague"
 }, {
   "input" : "Do you want to come to mine?",
   "response" : "Nah"
@@ -1580,11 +1580,11 @@
   "input" : "Plzzz?",
   "response" : "Room no."
 }, {
-  "input" : "401 Far far 1 st floor",
+  "input" : "401 \n Far far 1 st floor",
   "response" : "Eww"
 }, {
   "input" : "Please help improve this service by providing diagnostics data and a rating for your 55 minute interaction:\nâ­ï¸ â­ï¸ â­ï¸ â­ï¸ â­ï¸",
-  "response" : "it was 55 min jesus"
+  "response" : "it was 55 min \n jesus"
 }, {
   "input" : "I found that very informative and entertaining",
   "response" : "likewise"
@@ -1595,67 +1595,67 @@
   "input" : "Thanks for accepting the grueling trek to the faraway far-lands of pipe 1st",
   "response" : "it hurt my feet"
 }, {
-  "input" : "Singular? Ah no feet foot sorry I canât English",
-  "response" : "lmao tbf I can't even say that in french rip Ive found some really fun features of libreofficewriter at the end of a line you can create loads of invisible spaces also if you paste in a symbol that it can't display (for some reason) it leaves it as an invisible zero width character that you can still go through. If you do so the marker disappears popl?"
+  "input" : "Singular? \n Ah no feet foot sorry I canât English",
+  "response" : "lmao \n tbf I can't even say that in french rip \n Ive found some really fun features of libreofficewriter \n at the end of a line \n you can create loads of invisible spaces \n also if you paste in a symbol that it can't display (for some reason) it leaves it as an invisible zero width character that you can still go through. If you do so the marker disappears \n popl?"
 }, {
-  "input" : "Nu Iâm still in bed (Almost) literally havenât moved since you last saw me",
+  "input" : "Nu \n Iâm still in bed \n (Almost) literally havenât moved since you last saw me",
   "response" : "You can make it"
 }, {
   "input" : "Iâll go to models of Computation",
-  "response" : "Disappointing You're missing out on continuations They are kinda cool"
+  "response" : "Disappointing \n You're missing out on continuations \n They are kinda cool"
 }, {
   "input" : "ðµ",
-  "response" : "https://www.schoolofhaskell.com/tutorial-preview/4308/C4K8fA8u9N \"this course is about triangles\" Also we were talking about different types of monads. Basically there are monads that work with eachother, called transformers (but order of composition matters), then there are others that don't compose with any monads, and finally a subset which all work with eachother Called free monads"
+  "response" : "https://www.schoolofhaskell.com/tutorial-preview/4308/C4K8fA8u9N \n \"this course is about triangles\" \n Also we were talking about different types of monads. Basically there are monads that work with eachother, called transformers (but order of composition matters), then there are others that don't compose with any monads, and finally a subset which all work with eachother \n Called free monads"
 }, {
   "input" : "Crazy stuff",
   "response" : "Plan for tonight?"
 }, {
-  "input" : "Ashleyâs send off Before then gal Hall* And problem sheets",
-  "response" : "Yeah ik I'm saying We should make a plan re going to Ashley's thing tgther"
+  "input" : "Ashleyâs send off \n Before then gal \n Hall* \n And problem sheets",
+  "response" : "Yeah ik \n I'm saying \n We should make a plan re going to Ashley's thing tgther"
 }, {
-  "input" : "Yes yes shout Hall also?",
-  "response" : "yea when we coming back dya reckon"
+  "input" : "Yes yes shout \n Hall also?",
+  "response" : "yea \n when we coming back dya reckon"
 }, {
-  "input" : "What U think? I need an extra 5 m",
-  "response" : "845? sounds g coming back near midnight maybe im a bit ill so not sure"
+  "input" : "What U think? \n I need an extra 5 m",
+  "response" : "845? \n sounds g \n coming back near midnight maybe \n im a bit ill so not sure"
 }, {
   "input" : "Meet where?",
   "response" : "cycle gate"
 }, {
   "input" : "Which one?",
-  "response" : "not plodge near car gate"
+  "response" : "not plodge near \n car gate"
 }, {
   "input" : "Alright Iâm there",
-  "response" : "huh 845?"
+  "response" : "huh \n 845?"
 }, {
-  "input" : "Huh Time I see",
+  "input" : "Huh \n Time \n I see",
   "response" : "im confused"
 }, {
-  "input" : "What a concept Off by an hour I am",
+  "input" : "What a concept \n Off by an hour I am",
   "response" : "aye"
 }, {
   "input" : "You got a bike though right?",
-  "response" : "we will see hopefully Yo"
+  "response" : "we will see \n hopefully \n Yo"
 }, {
   "input" : "eya",
   "response" : "Gimme a sec"
 }, {
-  "input" : "nw i'm not quite reqdy yet actually wanna join knock at mine?",
-  "response" : "How long will you be Min or two?"
+  "input" : "nw \n i'm not quite reqdy yet \n actually wanna join knock at mine?",
+  "response" : "How long will you be \n Min or two?"
 }, {
-  "input" : "Lmk when you head off Iâm headed out",
+  "input" : "Lmk when you head off \n Iâm headed out",
   "response" : "He up"
 }, {
   "input" : "Room?",
   "response" : "442"
 }, {
-  "input" : "Did you manage to bed Francescos key back in place? Bend*",
-  "response" : "Mostly lmao cycleland is being shut down"
+  "input" : "Did you manage to bed Francescos key back in place? \n Bend*",
+  "response" : "Mostly \n lmao cycleland is being shut down"
 }, {
-  "input" : "Rip Do you have a bow tie I could borrow?",
+  "input" : "Rip \n Do you have a bow tie I could borrow?",
   "response" : "Multiple"
 }, {
-  "input" : "Might I swing by? Omg emergency I seem to no longer have a white shirt",
+  "input" : "Might I swing by? \n Omg emergency \n I seem to no longer have a white shirt",
   "response" : "come come"
 }, {
   "input" : "Savior â¤ï¸â¤ï¸â¤ï¸",

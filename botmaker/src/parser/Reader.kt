@@ -19,5 +19,3 @@ object Reader {
         return mapper.readValue(json)
     }
 }
-
-fun main() = println(Reader.extract("/root/IdeaProjects/chatbot/botmaker/src/mockdata/mockdata.json"))
