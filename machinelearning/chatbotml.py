@@ -6,36 +6,43 @@ import os
 import json
 import pandas
 
-file = open('test.json')
-arr = json.load(file)
-train_data = []
-for i in arr:
-    data = (i['input'], i['response'])
-    #print(data['input'])
-    train_data.append(data)
+#dylans
+def load_file (input_path, train_data):
+    file = open(input_path)
+    arr = json.load(file)
+    for i in arr:
+        data = (i['input'], i['response'])
+        train_data.append(data)
 
-#print(train_data)
-
-class MyTexts(object):
+class MyTexts:
+    def __init__(self, train_data):
+        self.train_data = train_data
     def __iter__(self):
-        for i in range(len(train_data)):
-            yield TaggedDocument(words=simple_preprocess(train_data[i][0]), tags=[i])
+        for i in range(len(self.train_data)):
+            yield TaggedDocument(words=simple_preprocess(self.train_data[i][0]), tags=[i])
 
-assert gensim.models.doc2vec.FAST_VERSION > - 1
+def create_model(output_path):
+    train_data = []
+    load_file("machinelearning/test.json", train_data)
+    assert gensim.models.doc2vec.FAST_VERSION > - 1
 
-cores = multiprocessing.cpu_count()
+    texts = MyTexts(train_data)
+    cores = multiprocessing.cpu_count()
+    doc2vec_model = Doc2Vec(vector_size = 200, workers = cores)
+    doc2vec_model.build_vocab(texts)
 
-texts = MyTexts()
-doc2vec_model = Doc2Vec(vector_size = 200, workers = cores)
-doc2vec_model.build_vocab(texts)
+    doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=15)
 
-doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=15)
+    if not os.path.exists('machinelearning/models'):
+        os.makedirs('machinelearning/models')
+    doc2vec_model.save('machinelearning/models/' + output_path)
 
-if not os.path.exists('models'):
-    os.makedirs('models')
-doc2vec_model.save('models/doc2vec.model')
+def chatbot(input_model):
+    train_data = []
+    load_file("machinelearning/test.json", train_data)
+    
+    doc2vec_model = Doc2Vec.load('machinelearning/models/' + input_model)
 
-def chatbot():
     recent = []
     quit = False
     while quit == False:
@@ -55,4 +62,17 @@ def chatbot():
             recent.append(tokens)
             print('Chatbot: ' + train_data[index[0][0]][1])
 
-chatbot()
+def getResponse(input, input_model):
+    train_data = []
+    load_file("machinelearning/test.json", train_data)
+        
+    doc2vec_model = Doc2Vec.load('machinelearning/models/' + input_model)
+
+    tokens = input.split()
+    new_vector = doc2vec_model.infer_vector(tokens)
+    index = doc2vec_model.docvecs.most_similar([new_vector], topn = 10)
+    return train_data[index[0][0]][1]
+
+create_model("doc2vec.model") 
+print(getResponse("hello my name is kerry", "doc2vec.model"))
+#chatbot("doc2vec.model")
