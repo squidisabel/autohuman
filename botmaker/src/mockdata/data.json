@@ -1,0 +1,286 @@
+[ {
+  "input" : "Where are you staying during oxhack Or tbh could just take Oxford tube or train it's only an hour or two away",
+  "response" : "Not sure yet"
+}, {
+  "input" : "Wait do I need to fill in a form",
+  "response" : "Oxford hack application Its a bit late so we might not get"
+}, {
+  "input" : "Is it separate for each person or one for the group",
+  "response" : "Each person"
+}, {
+  "input" : "Okay will do has everyone filled in the form s these 200 word mini-essays are too much effort",
+  "response" : "I'm gonna do it later today Yea they're a lot of work :(*"
+}, {
+  "input" : "oh wellll any idea what role I should put down",
+  "response" : "Not sure Have you been to hackathon before"
+}, {
+  "input" : "nope you",
+  "response" : "Went to one last year"
+}, {
+  "input" : "ah cool what role were you what roles even are there",
+  "response" : "Lol we didn't really have roles We all kinda just coded separate bits"
+}, {
+  "input" : "shall I just say I don't know?",
+  "response" : "And one person did all the art and music and some coding But I think I was like mainly doing the collisiony stuff"
+}, {
+  "input" : "ah cool this okay?",
+  "response" : "Looks good"
+}, {
+  "input" : "okie did everyone finish it",
+  "response" : "Yea"
+}, {
+  "input" : "great I believe in us getting it",
+  "response" : "Lol, there's like 650+ people interested and under 300 spaces :S But I have a little faith Use your Oxford contacts ðð"
+}, {
+  "input" : "lmao will do",
+  "response" : "Loool do u actually have ð"
+}, {
+  "input" : "ive already checked i dont know the committee but dw facebook interested means nothing",
+  "response" : "Smhhh dylannn"
+}, {
+  "input" : "sorry must hack harder",
+  "response" : "Was speaking to the president of our computing society yesterday :S"
+}, {
+  "input" : "lmao only 64 are going",
+  "response" : "He's giving my a referral for Google ðð"
+}, {
+  "input" : "havent even been to a compsoc event",
+  "response" : "But pretty sure I'm not gonna get in"
+}, {
+  "input" : "yeah google is a rip",
+  "response" : "Dylannnnnnnnnn"
+}, {
+  "input" : "its all about Jane street",
+  "response" : "Go to more events"
+}, {
+  "input" : "ugh",
+  "response" : "Lol, have u applied?"
+}, {
+  "input" : "I went to a google event but that was oxwocs not yet",
+  "response" : "Problem with us is... We have too many events"
+}, {
+  "input" : "women of computer science lmao",
+  "response" : "Ahahhaa was that good?"
+}, {
+  "input" : "yeah it was a dece talk pizza was nice",
+  "response" : "Too many events = too much free pizza = bad health"
+}, {
+  "input" : "issokay pizza = eating = good health or better health",
+  "response" : "Like I've been eating pizza at least 2-3 times a week...."
+}, {
+  "input" : "okay yall are crazy at imperial I cant be bothered to walk ten mins to cs just for a talk",
+  "response" : ":(( We had a bar night yesterday"
+}, {
+  "input" : "ooh nice",
+  "response" : "U should've came :P"
+}, {
+  "input" : "yeah you shouldve invited",
+  "response" : "If only it wasnt like an hour away :S Luke could've invited u ð"
+}, {
+  "input" : "an hour is honestly not bad at all smh luke",
+  "response" : "Yup He drank quite a bit :S"
+}, {
+  "input" : "haha great",
+  "response" : "I'll let you know when the next one is"
+}, {
+  "input" : "on the first hes coming up to oxford for a social you should be his plus one",
+  "response" : "Pog Lol What social?"
+}, {
+  "input" : "tng interns gotta keep them connections",
+  "response" : "Omg dylan Our algorithm teacher Looks like the guy from crazy rich asian"
+}, {
+  "input" : "lmao niiice our alg teacher looked like the idiot in arrested development",
+  "response" : "Loool Rude"
+}, {
+  "input" : "he was italian he was so inadvertently funny we also had a phil teacher who looked exactly like alex rider",
+  "response" : "Omg really Like that young?"
+}, {
+  "input" : "i mean like 25 but still",
+  "response" : "Professor at 25 years old??"
+}, {
+  "input" : "my tutor/prof is like 27",
+  "response" : "Wow that's pog Mine is like 60"
+}, {
+  "input" : "some people be crazy smart its intimidating",
+  "response" : "Yuppp Have u spoken much to maxi"
+}, {
+  "input" : "nah not really anything interesting",
+  "response" : ":( sad"
+}, {
+  "input" : "whats going on in your life",
+  "response" : "Pintos"
+}, {
+  "input" : "oh im going skiing with karen and em at the end of term pintos?",
+  "response" : "I have 16 day streak with labs Oh nice"
+}, {
+  "input" : "wtf is that",
+  "response" : "It's the operating system thing I was talking to u about"
+}, {
+  "input" : "ohhhh sorry I am a v forgetful person",
+  "response" : "It's okay, me too This year is more chill than last in terms of lectures but it's still like a lot worse :("
+}, {
+  "input" : "yeah I thought last year was hard now I need to worry bout jbs too",
+  "response" : "What's jbs"
+}, {
+  "input" : "Jobs I meanr I can't type",
+  "response" : "Ohhh same same 3 year course"
+}, {
+  "input" : "Youre only doing 3 years",
+  "response" : "4 years"
+}, {
+  "input" : "Am confused",
+  "response" : "I was trying to ask if you're doing 3 years But forgot ?"
+}, {
+  "input" : "Oh I'm doing a 4 year couese hopefully Rip my laptop charger broke",
+  "response" : ":( sadd"
+}, {
+  "input" : "What do I even do now",
+  "response" : "What kinda charger"
+}, {
+  "input" : "It's an Acer specific one unfortunately",
+  "response" : "Try like Acer website?"
+}, {
+  "input" : "I'm sure I can buy a charger somewhere But I don't wanna do that if it's not the problem",
+  "response" : "Smh my friend wrote a bash script to commit loads so we're at the top of the git leaderboard lool Ah :( Get it repaired"
+}, {
+  "input" : "Lmao Yeah I intend to Know any good places",
+  "response" : "In Oxford? No idea"
+}, {
+  "input" : "More brands",
+  "response" : "Brands?"
+}, {
+  "input" : "Like shops that would do this sort of thing",
+  "response" : "Not sure :/"
+}, {
+  "input" : "Oh well I'll figure it out when do you get here friday im at house party that night (unfortunately no plus ones) but we will figure sth out",
+  "response" : "Ok nws Probably like 8:30"
+}, {
+  "input" : "Hmm Are the other two coming w you",
+  "response" : "I think so They might go to my friends house thi Coz she lives in Oxford"
+}, {
+  "input" : "Oooh she has a house that's useful I'll leave the party 11ish and meet you?",
+  "response" : "Ok that sounds good"
+}, {
+  "input" : "Yay party was moved to Thursday So I can entertain you",
+  "response" : "Yay"
+}, {
+  "input" : "Wanna do ice hockey M ?",
+  "response" : "On Friday?"
+}, {
+  "input" : "yea you can skate decently right",
+  "response" : "Haha not ice hockey level"
+}, {
+  "input" : "dw dw its amateur",
+  "response" : "Are u going?"
+}, {
+  "input" : "I will if you want to its not proper ice hockey",
+  "response" : "What time is it?"
+}, {
+  "input" : "its like 12-1 lmao",
+  "response" : "Pm?"
+}, {
+  "input" : "midnight",
+  "response" : "Wtf loool"
+}, {
+  "input" : "its great",
+  "response" : "Kinda want to meet with like maxi and co"
+}, {
+  "input" : "all my training is at that time",
+  "response" : "I might leave on monday"
+}, {
+  "input" : "ah okay cool",
+  "response" : "Like Monday afternoon"
+}, {
+  "input" : "have you talked to them about that",
+  "response" : "Nope lol"
+}, {
+  "input" : "you can stay as long as you want",
+  "response" : "Need to do that ð"
+}, {
+  "input" : "w me or otherwise",
+  "response" : "I have a problem tho"
+}, {
+  "input" : "ya",
+  "response" : "Basically, after Oxford hack I have my league game :S"
+}, {
+  "input" : "lol can you do that from my room over skype?",
+  "response" : "Is WiFi good? It's at 6:45"
+}, {
+  "input" : "eduroam is dece here",
+  "response" : "Sounds good Are u busy on Monday?"
+}, {
+  "input" : "lemme speed test it I mean ill have an essay to write",
+  "response" : "Haha thanks"
+}, {
+  "input" : "but other than that no dayum",
+  "response" : "Woah Damn Flex"
+}, {
+  "input" : "im surprised",
+  "response" : "Essays look fun Yea I'm surprised"
+}, {
+  "input" : "you know it ive written 310 of the 2000 its due tomorrow at 10",
+  "response" : "Especially coz it's wifi"
+}, {
+  "input" : "am",
+  "response" : "2000 essays?"
+}, {
+  "input" : "so ill talk tomorrow words",
+  "response" : "Okkk See u"
+}, {
+  "input" : "when you getting here",
+  "response" : "Like 8:18"
+}, {
+  "input" : "you eating dinner in london? if not we can go out for dinner",
+  "response" : "Not sure yet"
+}, {
+  "input" : "Lmk by 5 so?",
+  "response" : "Aaaaa"
+}, {
+  "input" : "Laaaa Decideee",
+  "response" : "I'll come"
+}, {
+  "input" : "Aye I'll pick yall up from the station then and we can grab a bite somewhere",
+  "response" : "I think they're gonna get picked up Coz we booked to Oxford parkway"
+}, {
+  "input" : "Wait what You are taking bus? That is such a rip Wait they being driven or",
+  "response" : "I might just get off at Oxford Or my friend could drop me off They're driving from Oxford parkway to oxford"
+}, {
+  "input" : "I assume it wont go through oxford if its to park and ride or do you mean just stay on im confused if we are going out for dinner you should just stay on since the bus stop is pretty central",
+  "response" : "Like either stay on"
+}, {
+  "input" : "ahhhh",
+  "response" : "Or get dropped of Off Idk"
+}, {
+  "input" : "yeah just stay on and ill meet w you",
+  "response" : "My ticket is to Oxford parkway tho How string Strict R they"
+}, {
+  "input" : "Lol they wont check",
+  "response" : "Do they not have gates?"
+}, {
+  "input" : "nah dont think so itll be fine",
+  "response" : "Where we gonna eat"
+}, {
+  "input" : "What kinda food do you want",
+  "response" : "What's good?"
+}, {
+  "input" : "There's a good Chinese by the bus stop but basically any type of food it's a city Francomanca is cheap",
+  "response" : "What's the Chinese place called I might be dropped off by issys dad"
+}, {
+  "input" : "Oh it's called my Szechuan",
+  "response" : "I think I've been"
+}, {
+  "input" : "Wait do issys parents live in Oxford",
+  "response" : "Yea lol"
+}, {
+  "input" : "Ohhh It all makes sense now But if her dad is dropping it off norham gardens is probs better and we can walk down together idk Hmm",
+  "response" : "That's fine See you Will be there around 8:35ish"
+}, {
+  "input" : "Okie",
+  "response" : "Are we eating breakfast tomorrow"
+}, {
+  "input" : "Think so",
+  "response" : "Can I ask maxi to come too?"
+}, {
+  "input" : "Go for it We could try see him tonight",
+  "response" : "We could I feel like he's eaten dinner tho He said he'd love to do breakfast tomorrow"
+} ]
