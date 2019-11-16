@@ -6,8 +6,8 @@ import java.io.File
 
 object Reader {
 
-    fun extract(fileName: String): List<Message> {
-        return mapToObject(readFile(fileName)).messages
+    fun extract(fileName: String): FileStruc {
+        return mapToObject(readFile(fileName))
     }
 
     private fun readFile(fileName: String): String {

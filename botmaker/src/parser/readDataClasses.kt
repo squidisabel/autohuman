@@ -20,6 +20,7 @@ data class Message(
     val reactions: List<Any>?,
     val sticker: Any?,
     val videos: Any?,
+    val files: Any?,
     val type: String
 )
 
