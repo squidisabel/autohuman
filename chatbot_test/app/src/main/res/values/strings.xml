@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chatbot_Test</string>
+    <string name="send">SEND</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send_button">sendButton</string>
+    <string name="other_name">Kerry Xu</string>
+</resources>
