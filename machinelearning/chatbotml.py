@@ -34,11 +34,12 @@ def create_model(output_path):
     doc2vec_model = Doc2Vec(vector_size = 200, workers = cores)
     doc2vec_model.build_vocab(texts)
 
-    doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=15)
+    doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=30)
 
     if not os.path.exists('models'):
         os.makedirs('models')
     doc2vec_model.save('models/' + output_path)
+    print("Trained")
 
 def chatbot(input_model):
     train_data = []
@@ -76,16 +77,13 @@ def getResponse(input, input_model):
     index = doc2vec_model.docvecs.most_similar([new_vector], topn = 10)
     return train_data[index[0][0]][1]
 
-# create_model("doc2vec.model") 
+create_model("doc2vec.model") 
 # print(getResponse("hello my name is kerry", "doc2vec.model"))
 
 app = Flask(__name__)
 @app.route('/response', methods=['POST'])
 def response():
     content = request.json
-    # text = request.form.get('text')
-    print(content)
-    # print(text)
     return jsonify({'res':getResponse(content['text'], content['model'])})
 
 if __name__ == '__main__':

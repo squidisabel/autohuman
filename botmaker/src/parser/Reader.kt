@@ -7,6 +7,10 @@ import java.io.File
 object Reader {
 
     fun extract(fileName: String): FileStruc {
+//        var file = readFile(fileName)
+//        file.replace("\"", "\\\"")
+        //var file = readFile(fileName).replace("\"\"", "\"")
+
         return mapToObject(readFile(fileName))
     }
 
