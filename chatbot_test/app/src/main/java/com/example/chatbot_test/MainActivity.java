@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
 
     // Instantiate the RequestQueue.
     private RequestQueue queue;
-    String url = "https://ed796e2e.ngrok.io/response";
-//    String url = "https://975fa8a0.ngrok.io/reqdat";
+    String url = "https://whydoesthisnotworkinaeoreinro.azurewebsites.net/response";
+//    String url = "https://ed796e2e.ngrok.io/response";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
