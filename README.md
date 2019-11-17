@@ -30,7 +30,7 @@ We initially had problems with attempting to an external Python script in Kotlin
 
 ## Outlook
 In the future the areas we would most like to work on are:
-1. Updating the model to be more smart and organically create responses
+1. Updating the model to be smarter and organically create responses
 1. Adding a way to upload chat data from within the app
 1. Adding new messaging service's data
 1. Generally improving the app
