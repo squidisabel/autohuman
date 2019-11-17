@@ -5,6 +5,9 @@ import multiprocessing
 import os
 import json
 import pandas
+from flask import request, jsonify, Flask
+
+
 
 #dylans
 def load_file (input_path, train_data):
@@ -23,7 +26,7 @@ class MyTexts:
 
 def create_model(output_path):
     train_data = []
-    load_file("machinelearning/test.json", train_data)
+    load_file("test.json", train_data)
     assert gensim.models.doc2vec.FAST_VERSION > - 1
 
     texts = MyTexts(train_data)
@@ -33,15 +36,15 @@ def create_model(output_path):
 
     doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=15)
 
-    if not os.path.exists('machinelearning/models'):
-        os.makedirs('machinelearning/models')
-    doc2vec_model.save('machinelearning/models/' + output_path)
+    if not os.path.exists('models'):
+        os.makedirs('models')
+    doc2vec_model.save('models/' + output_path)
 
 def chatbot(input_model):
     train_data = []
-    load_file("machinelearning/test.json", train_data)
+    load_file("test.json", train_data)
     
-    doc2vec_model = Doc2Vec.load('machinelearning/models/' + input_model)
+    doc2vec_model = Doc2Vec.load('models/' + input_model)
 
     recent = []
     quit = False
@@ -64,15 +67,27 @@ def chatbot(input_model):
 
 def getResponse(input, input_model):
     train_data = []
-    load_file("machinelearning/test.json", train_data)
+    load_file("test.json", train_data)
         
-    doc2vec_model = Doc2Vec.load('machinelearning/models/' + input_model)
+    doc2vec_model = Doc2Vec.load('models/' + input_model)
 
     tokens = input.split()
     new_vector = doc2vec_model.infer_vector(tokens)
     index = doc2vec_model.docvecs.most_similar([new_vector], topn = 10)
     return train_data[index[0][0]][1]
 
-create_model("doc2vec.model") 
-print(getResponse("hello my name is kerry", "doc2vec.model"))
-#chatbot("doc2vec.model")
+# create_model("doc2vec.model") 
+# print(getResponse("hello my name is kerry", "doc2vec.model"))
+
+app = Flask(__name__)
+@app.route('/response', methods=['POST'])
+def response():
+    content = request.json
+    # text = request.form.get('text')
+    print(content)
+    # print(text)
+    return jsonify({'res':getResponse(content['text'], content['model'])})
+
+if __name__ == '__main__':
+    app.run(debug=True)
+# chatbot("doc2vec.model")
