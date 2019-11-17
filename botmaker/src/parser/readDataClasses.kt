@@ -25,6 +25,8 @@ data class Message(
     val sticker: Any?,
     val videos: Any?,
     val files: Any?,
+    val users: Any?,
+    val plan: Any?,
     val type: String
 )
 

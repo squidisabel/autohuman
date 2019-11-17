@@ -3,22 +3,25 @@ package com.botmaker.parser
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
 import java.io.File
+import java.nio.file.Path
 
 object Reader {
 
-    fun extract(fileName: String): FileStruc {
+    fun extract(path: Path): FileStruc? {
 //        var file = readFile(fileName)
 //        file.replace("\"", "\\\"")
         //var file = readFile(fileName).replace("\"\"", "\"")
 
-        return mapToObject(readFile(fileName))
+        var struc = mapToObject(readFile(path))
+        if (struc?.participants?.size != 2) struc = null
+        return struc
     }
 
-    private fun readFile(fileName: String): String {
-        return File(fileName).readText()
+    private fun readFile(fileName: Path): String {
+        return fileName.toFile().readText()
     }
 
-    private fun mapToObject(json: String): FileStruc {
+    private fun mapToObject(json: String): FileStruc? {
         val mapper = jacksonObjectMapper()
         return mapper.readValue(json)
     }
