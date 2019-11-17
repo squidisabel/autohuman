@@ -6,14 +6,32 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.view.textclassifier.TextLinks;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+import com.android.volley.AuthFailureError;
+import com.android.volley.DefaultRetryPolicy;
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.VolleyLog;
+import com.android.volley.toolbox.JsonObjectRequest;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity implements MessageListAdapter.ItemClickListener{
     private List<UserMessage> messages;
@@ -23,23 +41,22 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
     private ImageButton button;
     private EditText input;
     private int nextIndex;
+    private String msg;
+
+    // Instantiate the RequestQueue.
+    private RequestQueue queue;
+    String url = "https://975fa8a0.ngrok.io/reqdat";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_message_list);
 
+        queue = Volley.newRequestQueue(this);
+
         nextIndex = 0;
-
         messages = new ArrayList<>();
-
         input = findViewById(R.id.chatbox);
-
-        // set up the RecyclerView
-        messageRecycler = findViewById(R.id.recyclerview_message_list);
-        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
-        layoutManager.setOrientation(RecyclerView.VERTICAL);
-        messageRecycler.setLayoutManager(layoutManager);
         button = findViewById(R.id.sendbutton);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,6 +65,13 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
                 input.getText().clear();
             }
         });
+
+        // set up the RecyclerView
+        messageRecycler = findViewById(R.id.recyclerview_message_list);
+        LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+        layoutManager.setOrientation(RecyclerView.VERTICAL);
+        messageRecycler.setLayoutManager(layoutManager);
+
         DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(messageRecycler.getContext(),
                 layoutManager.getOrientation());
         messageRecycler.addItemDecoration(dividerItemDecoration);
@@ -58,24 +82,48 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
     }
 
     @Override
-    public void onItemClick(View view, int position) {
-        Toast.makeText(this, "You clicked " + messageAdapter.getItem(position) + " on row number " + position, Toast.LENGTH_SHORT).show();
-    }
+    public void onItemClick(View view, int position) {}
 
     public void onButtonClick(View view) {
-        UserMessage message = new UserMessage(input.getText().toString(), true);
+        msg = input.getText().toString();
+        UserMessage message = new UserMessage(msg, true);
         insertSingleItem(message);
-        UserMessage message1 = getReply(message);
-        insertSingleItem(message1);
-    }
-
-    private UserMessage getReply(UserMessage message) {
-        return new UserMessage("reply" + message.getText(), false);
+        fetchReponse();
     }
 
     private void insertSingleItem(UserMessage message) {
         messages.add(nextIndex, message);
         messageAdapter.notifyItemInserted(nextIndex);
         ++nextIndex;
+    }
+
+
+    private void fetchReponse() {
+        final JSONObject jsonBody = new JSONObject();
+        try {
+            jsonBody.put("model", "model");
+            jsonBody.put("text", msg);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+
+        JsonObjectRequest req = new JsonObjectRequest(url, jsonBody, new Response.Listener<JSONObject>() {
+            @Override
+            public void onResponse(JSONObject response) {
+                try {
+                    UserMessage message = new UserMessage(response.getString("responseText"), false);
+                    insertSingleItem(message);
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                VolleyLog.e("Error: ", (Object) error.getStackTrace());
+            }
+        });
+        req.setRetryPolicy(new DefaultRetryPolicy(10000, 0, DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
+        queue.add(req);
     }
 }

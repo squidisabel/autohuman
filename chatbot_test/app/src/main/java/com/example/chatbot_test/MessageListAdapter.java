@@ -82,22 +82,18 @@ public class MessageListAdapter extends RecyclerView.Adapter {
     }
 
     public class SentMessageHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
-        TextView messageText, timeText;
+        TextView messageText;
 
         SentMessageHolder(View itemView) {
             super(itemView);
 
             messageText = itemView.findViewById(R.id.text_message_body);
-            timeText = itemView.findViewById(R.id.text_message_time);
 
             itemView.setOnClickListener(this);
         }
 
         void bind(UserMessage message) {
             messageText.setText(message.getText());
-
-            // Format the stored timestamp into a readable String using method.
-//            timeText.setText(Utils.formatDateTime(message.getCreatedAt()));
         }
 
         @Override
@@ -108,36 +104,8 @@ public class MessageListAdapter extends RecyclerView.Adapter {
         }
     }
 
-    UserMessage getItem(int position) {
-        return messages.get(position);
-    }
-
     void setClickListener(ItemClickListener listener) {
         this.mClickListener = listener;
-    }
-
-    private class ReceivedMessageHolder extends RecyclerView.ViewHolder {
-        TextView messageText, timeText, nameText;
-        ImageView profileImage;
-
-        ReceivedMessageHolder(View itemView) {
-            super(itemView);
-            messageText = itemView.findViewById(R.id.text_message_body);
-            timeText = itemView.findViewById(R.id.text_message_time);
-            nameText = itemView.findViewById(R.id.text_message_name);
-            profileImage = itemView.findViewById(R.id.image_message_profile);
-        }
-
-/*        void bind(UserMessage message) {
-            messageText.setText(message.getText());
-
-            // Format the stored timestamp into a readable String using method.
-            timeText.setText(Utils.formatDateTime(message.getCreatedAt()));
-            nameText.setText(message.getSender().getNickname());
-
-            // Insert the profile image from the URL into the ImageView.
-            Utils.displayRoundImageFromUrl(context, message.getSender().getProfileUrl(), profileImage);
-        }*/
     }
 
     // parent activity will implement this method to respond to click events
