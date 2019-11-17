@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
 
     // Instantiate the RequestQueue.
     private RequestQueue queue;
-    String url = "https://whydoesthisnotworkinaeoreinro.azurewebsites.net/response";
-//    String url = "https://ed796e2e.ngrok.io/response";
+//    String url = "https://whydoesthisnotworkinaeoreinro.azurewebsites.net/response";
+    String url = "https://48890da2.ngrok.io/response";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
                 VolleyLog.e("Error: ", (Object) error.getStackTrace());
             }
         });
-        req.setRetryPolicy(new DefaultRetryPolicy(10000, 0, DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
+        req.setRetryPolicy(new DefaultRetryPolicy(20000, 0, DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
         queue.add(req);
     }
 }
