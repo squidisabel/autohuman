@@ -71,14 +71,6 @@ public class MessageListAdapter extends RecyclerView.Adapter {
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
         UserMessage message = messages.get(position);
         ((SentMessageHolder) holder).bind(message);
-
-/*        switch (holder.getItemViewType()) {
-            case VIEW_TYPE_MESSAGE_SENT:
-                ((SentMessageHolder) holder).bind(message);
-                break;
-            case VIEW_TYPE_MESSAGE_RECEIVED:
-                ((ReceivedMessageHolder) holder).bind(message);
-        }*/
     }
 
     public class SentMessageHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
@@ -102,6 +94,10 @@ public class MessageListAdapter extends RecyclerView.Adapter {
                 mClickListener.onItemClick(v, getAdapterPosition());
             }
         }
+    }
+
+    public String getItem(int position) {
+        return messages.get(position).getText();
     }
 
     void setClickListener(ItemClickListener listener) {

@@ -45,7 +45,8 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
 
     // Instantiate the RequestQueue.
     private RequestQueue queue;
-    String url = "https://975fa8a0.ngrok.io/reqdat";
+    String url = "https://ed796e2e.ngrok.io/response";
+//    String url = "https://975fa8a0.ngrok.io/reqdat";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,7 +83,8 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
     }
 
     @Override
-    public void onItemClick(View view, int position) {}
+    public void onItemClick(View view, int position) {
+    }
 
     public void onButtonClick(View view) {
         msg = input.getText().toString();
@@ -101,7 +103,7 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
     private void fetchReponse() {
         final JSONObject jsonBody = new JSONObject();
         try {
-            jsonBody.put("model", "model");
+            jsonBody.put("model", "doc2vec.model");
             jsonBody.put("text", msg);
         } catch (JSONException e) {
             e.printStackTrace();
@@ -111,8 +113,9 @@ public class MainActivity extends AppCompatActivity implements MessageListAdapte
             @Override
             public void onResponse(JSONObject response) {
                 try {
-                    UserMessage message = new UserMessage(response.getString("responseText"), false);
+                    UserMessage message = new UserMessage(response.getString("res"), false);
                     insertSingleItem(message);
+                    messageRecycler.smoothScrollToPosition(messageAdapter.getItemCount() - 1);
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }
