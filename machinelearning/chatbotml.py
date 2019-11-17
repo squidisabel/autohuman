@@ -7,8 +7,6 @@ import json
 import pandas
 from flask import request, jsonify, Flask
 
-
-
 #dylans
 def load_file (input_path, train_data):
     file = open(input_path)
@@ -31,7 +29,7 @@ def create_model(output_path):
 
     texts = MyTexts(train_data)
     cores = multiprocessing.cpu_count()
-    doc2vec_model = Doc2Vec(vector_size = 200, workers = cores)
+    doc2vec_model = Doc2Vec(vector_size = 300, workers = cores)
     doc2vec_model.build_vocab(texts)
 
     doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=30)
@@ -87,5 +85,6 @@ def response():
     return jsonify({'res':getResponse(content['text'], content['model'])})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0')
+    # app.run(host='0.0.0.0')
 # chatbot("doc2vec.model")
