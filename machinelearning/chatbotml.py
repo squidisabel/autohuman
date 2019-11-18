@@ -32,7 +32,7 @@ def create_model(output_path):
     doc2vec_model = Doc2Vec(vector_size = 300, workers = cores)
     doc2vec_model.build_vocab(texts)
 
-    doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=30)
+    doc2vec_model.train(texts, total_examples=doc2vec_model.corpus_count, epochs=1000)
 
     if not os.path.exists('models'):
         os.makedirs('models')
