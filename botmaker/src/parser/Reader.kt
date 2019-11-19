@@ -23,6 +23,12 @@ object Reader {
 
     private fun mapToObject(json: String): FileStruc? {
         val mapper = jacksonObjectMapper()
-        return mapper.readValue(json)
+        return try {
+            mapper.readValue(json)
+        }
+        catch (e: Exception){
+            println(e.localizedMessage)
+            null
+        }
     }
 }
